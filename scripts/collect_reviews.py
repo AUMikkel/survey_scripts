@@ -43,9 +43,12 @@ def flatten_rows(rows_dicrtionary):
         })
     return flattened_rows
 
+def sort_rows_by_citation_count(rows : list):
+    return sorted(rows, key=lambda x: x["Count_HMLV_Citations"], reverse=True)
 
 def save_rows_to_csv(rows, output_file, path=None):
     rows = flatten_rows(rows)
+    rows = sort_rows_by_citation_count(rows)
     df = pd.DataFrame(rows)
     if path:
         output_file = f"{path}/{output_file}"

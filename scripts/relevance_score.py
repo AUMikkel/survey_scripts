@@ -3,7 +3,7 @@ Automated paper selection for systematic literature review.
 Focus: Decision Support in High-Mix Low-Volume (HMLV) Manufacturing
 Emphasis: Industry 4.0 technologies such as AI, Digital Twin, IoT, Optimization, Simulation
 
-Output: Excel sheet with key_id and Keep? columns (++, +, *, -)
+Output: Excel sheet with key_id and Relevance Score columns (++, +, *, -)
 """
 
 import pandas as pd
@@ -27,7 +27,7 @@ class PaperSelector:
         self.tech_core = re.compile(
             r'\b('
             r'machine\s*learning|deep\s*learning|artificial\s*intelligence|neural\s*network|reinforcement\s*learning|'
-            r'digital\s*twin|cyber[-\s]*physical\s*system|cps|'
+            r'digital\s*twin|cyber[-\s]*physical[-\s]*system|cps|cyber[-\s]*physical[-\s]*production[-\s]*systems?|cpps|'
             r'industrial\s*iot|iiot|internet\s+of\s+things|iot|'
             r'edge\s*computing|embedded\s*ai|analytics|predictive\s*maintenance|'
             r'fault\s*detection|data[-\s]*driven|'
@@ -42,7 +42,7 @@ class PaperSelector:
         )
 
 
-
+        # --- Methods used in AI/ML/Digital Twin/Optimization ---
         self.methods_core = re.compile(
             r'\b('
             r'cnn|convolutional\s*neural\s*network|rnn|recurrent\s*neural\s*network|lstm|gru|'
@@ -83,7 +83,7 @@ class PaperSelector:
         self.manufacturing_core = re.compile(
             r'\b(manufacturing|production\s+(system|line|planning|scheduling)|'
             r'factory|shop\s*floor|process\s+optimization|job\s*shop|flow\s*shop|'
-            r'assembly\s+line|machining|industrial\s+automation|'
+            #r'assembly\s+line|machining|industrial\s+automation|'
             r'high[- ]mix|low[- ]volume|work\s*cell)\b',
             re.IGNORECASE
         )
@@ -92,9 +92,10 @@ class PaperSelector:
         self.decision_support = re.compile(
             r'\b(decision\s+support|decision\s+making|multi[- ]criteria|mcdm|'
             r'dashboard|planning\s+support|data\s+driven\s+decision|decision[- ]making|'
-            r'intelligent\s+decision|decision-support system|decision-support framework)\b',
+            r'intelligent\s+decision|decision[- ]support system|decision-support framework)\b',
             re.IGNORECASE
         )
+
 
         self.scheduling_core = re.compile(
             r'\b(job\s*shop|flow\s*shop|flexible\s*job\s*shop|fjsp|dfjsp|'
@@ -150,13 +151,19 @@ class PaperSelector:
             re.IGNORECASE
         )
 
+        # --- Identify manufacturing level factory ---
+        self.factory_level = re.compile(
+            r'\b(shop[- ]floor|flow[- ]shop|job[- ]shop)\b',
+            re.IGNORECASE
+        )
+
     # ------------------------------
     # Helper functions
     # ------------------------------
     def _count_matches(self, pattern: re.Pattern, text: str) -> int:
         if not text or pd.isna(text):
             return 0
-        return len(pattern.findall(str(text)))
+        return len(set(pattern.findall(str(text)))) # unique matches only or len(pattern.findall(str(text)))
 
     def _check_match(self, pattern: re.Pattern, text: str) -> bool:
         if not text or pd.isna(text):
@@ -169,11 +176,17 @@ class PaperSelector:
             if field in row and pd.notna(row[field]):
                 parts.append(str(row[field]))
         return " ".join(parts).lower()
+    
+    def clean(self, s: str) -> str:
+        s = str(s)
+        s = s.strip()
+        s = re.sub(r"\s+", "_", s)  # replace any whitespace with _
+        return s.lower()
 
     # ------------------------------
     # Scoring and classification logic
     # ------------------------------
-    def _score_paper(self, row: pd.Series) -> Tuple[str, str]:
+    def _score_paper(self, row: pd.Series) -> Tuple[str, str, str]:
         text = self._get_combined_text(row)
         title = str(row.get("Title", "")).lower()
 
@@ -192,11 +205,11 @@ class PaperSelector:
         has_negative = self._check_match(self.negative_indicators, text)
 
         # Logic tree (same structure as original)
-        if has_negative:
-            return "-", "Managerial/business/policy focus"
+        #if has_negative:
+        #    return "-", "Managerial/business/policy focus"
 
         if mfg_count == 0:
-            return "-", "No manufacturing/production focus"
+            return "-", "No manufacturing/production focus", "Managerial/business/policy focus" if has_negative else "None"
 
         # ++ Highly relevant old
         #if tech_count >= 2 and decision_count >= 1 and mfg_count >= 1:
@@ -205,21 +218,21 @@ class PaperSelector:
         # ++ Highly relevant new
         #if tech_count >= 2 and mfg_count >= 1 and (decision_count >= 2 or combined_count >= 3):
         if tech_count >= 2 and mfg_count >= 1 and (decision_count >= 1 or combined_count >= 2):
-            return "++", f"Core tech ({tech_count}) + manufacturing ({mfg_count}) + strong decision/scheduling/simulation signal"
+            return "++", f"Core tech ({tech_count}) + manufacturing ({mfg_count}) + strong decision or scheduling/simulation/robotics signal", "Managerial/business/policy focus" if has_negative else "None"
 
         # + Relevant
         if tech_count >= 2 and combined_count >= 2 and mfg_count >= 1:
-            return "+", f"Tech ({tech_count}) + scheduling/metaheuristics/simulation/robotics ({combined_count}) in manufacturing"
-
+            return "+", f"Tech ({tech_count}) + scheduling/metaheuristics/simulation/robotics ({combined_count}) in manufacturing", "Managerial/business/policy focus" if has_negative else "None"
+        
         if industry_count >= 2 and tech_count >= 1 and mfg_count >= 1:
-            return "+", f"Industry 4.0 digitalization ({industry_count}) + tech ({tech_count})"
+            return "+", f"Industry 4.0 digitalization ({industry_count}) + tech ({tech_count})", "Managerial/business/policy focus" if has_negative else "None"
 
         # * Maybe
         if tech_count >= 1 and mfg_count >= 1:
-            return "*", f"Manufacturing ({mfg_count}) + some technology relevance ({tech_count})"
+            return "*", f"Manufacturing ({mfg_count}) + some technology relevance ({tech_count})", "Managerial/business/policy focus" if has_negative else "None"
 
         # - Exclude
-        return "-", "Not relevant to decision support or Industry 4.0 manufacturing"
+        return "-", "Not relevant to decision support or Industry 4.0 manufacturing", "Managerial/business/policy focus" if has_negative else "None"
 
     # ------------------------------
     # Main processing loop
@@ -231,15 +244,20 @@ class PaperSelector:
 
         results = []
         for i, (_, row) in enumerate(df.iterrows()):
-            keep_decision, reasoning = self._score_paper(row)
+            keep_decision, reasoning, negative = self._score_paper(row)
             methods_found = [m.group(0) for m in self.methods_core.finditer(self._get_combined_text(row))]
             tech_found = [m.group(0) for m in self.tech_core.finditer(self._get_combined_text(row))]
             results.append({
-                "key_id": "_".join([str(row.get("Year","")), row.get("Title","")]), #row.get("key_id", ""),
-                "Keep?": keep_decision,
+                "key_id": "_".join([self.clean(row.get("Year","")), self.clean(row.get("Title",""))]), #row.get("key_id", ""),
+                "Title": row.get("Title", ""),
+                "Relevance Score": keep_decision,
                 "Reasoning": reasoning,
                 "Methods": ", ".join(sorted(set(methods_found))),
-                "Technologies": ", ".join(sorted(set(tech_found)))
+                "Technologies": ", ".join(sorted(set(tech_found))),
+                "Manufacturing Level": "Factory" if self._count_matches(self.factory_level, self._get_combined_text(row)) else "Unclassified",
+                "Negatives Found": negative,
+                "Include/Exclude": "",
+                "Your Notes": "ex. reason for inclusion/exclusion"
             })
             if (i + 1) % 100 == 0:
                 print(f"Processed {i + 1}/{len(df)} papers...")
@@ -272,7 +290,7 @@ class PaperSelector:
             print(f"\n✅ Created new '{output_excel}' with sheet '{sheet_name}'.")
 
         # Summary
-        summary = output_df["Keep?"].value_counts().sort_index()
+        summary = output_df["Relevance Score"].value_counts().sort_index()
         print("\nSummary:")
         print(f"  Total papers: {len(output_df)}")
         for decision in ["++", "+", "*", "-"]:
@@ -281,7 +299,7 @@ class PaperSelector:
             print(f"  {decision}: {count} ({pct:.1f}%)")
 
         # Print sample of highly relevant papers
-        top = output_df[output_df["Keep?"] == "++"].head(5)
+        top = output_df[output_df["Relevance Score"] == "++"].head(5)
         if not top.empty:
             print("\nSample of highly relevant papers:")
             for _, r in top.iterrows():
