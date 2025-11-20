@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Dynamic Scheduling Method for Job-Shop Manufacturing Systems by Deep Reinforcement Learning with Proximal Policy Optimization",
+    "eid": "2-s2.0-85129116715",
+    "doi": "10.3390/su14095177",
+    "reviews_that_cite": [
+      "2-s2.0-85146633956"
+    ]
+  },
+  {
+    "title": "Optimal decisions of modularity, prices and return policy in a dual-channel supply chain under mass customization",
+    "eid": "2-s2.0-85126591809",
+    "doi": "10.1016/j.tre.2022.102675",
+    "reviews_that_cite": [
+      "2-s2.0-85173435638"
+    ]
+  },
+  {
+    "title": "Predictive Maintenance Decision Making Based on Reinforcement Learning in Multistage Production Systems",
+    "eid": "2-s2.0-85124743585",
+    "doi": "10.1109/ACCESS.2022.3151170",
+    "reviews_that_cite": [
+      "2-s2.0-85148003865"
+    ]
+  },
+  {
+    "title": "Metaheuristics for solving a multi-objective flow shop scheduling problem with sequence-dependent setup times",
+    "eid": "2-s2.0-85067828490",
+    "doi": "10.1007/s10951-019-00610-0",
+    "reviews_that_cite": [
+      "2-s2.0-85140057944"
+    ]
+  },
+  {
+    "title": "Multi-objective optimization for energy-efficient flexible job shop scheduling problem with transportation constraints",
+    "eid": "2-s2.0-85064260427",
+    "doi": "10.1016/j.rcim.2019.04.006",
+    "reviews_that_cite": [
+      "2-s2.0-85130888673"
+    ]
+  },
+  {
+    "title": "POLCA: Centralised vs. Decentralised job release",
+    "eid": "2-s2.0-85078873092",
+    "doi": "10.1016/j.ifacol.2019.11.399",
+    "reviews_that_cite": [
+      "2-s2.0-85148003865"
+    ]
+  },
+  {
+    "title": "Anarchic manufacturing",
+    "eid": "2-s2.0-85053542258",
+    "doi": "10.1080/00207543.2018.1521534",
+    "reviews_that_cite": [
+      "2-s2.0-85132128837"
+    ]
+  },
+  {
+    "title": "Energy- and labor-aware flexible job shop scheduling under dynamic electricity pricing: A many-objective optimization investigation",
+    "eid": "2-s2.0-85056000918",
+    "doi": "10.1016/j.jclepro.2018.10.289",
+    "reviews_that_cite": [
+      "2-s2.0-85130888673"
+    ]
+  },
+  {
+    "title": "Modeling and application of configuration complexity scale: concept for customized production",
+    "eid": "2-s2.0-85053928031",
+    "doi": "10.1007/s00170-018-2659-5",
+    "reviews_that_cite": [
+      "2-s2.0-85096980832"
+    ]
+  },
+  {
+    "title": "Data analytics-based decision support workflow for high-mix low-volume production systems",
+    "eid": "2-s2.0-85064550516",
+    "doi": "10.1016/j.cirp.2019.04.001",
+    "reviews_that_cite": [
+      "2-s2.0-85148003865"
+    ]
+  },
+  {
+    "title": "Solving the Job-Shop Scheduling Problem in the Industry 4.0 Era",
+    "eid": "2-s2.0-85108074590",
+    "doi": "10.3390/technologies6040107",
+    "reviews_that_cite": [
+      "2-s2.0-85111144338"
+    ]
+  },
+  {
+    "title": "A two-stage optimization method for energy-saving flexible job-shop scheduling based on energy dynamic characterization",
+    "eid": "2-s2.0-85047493844",
+    "doi": "10.1016/j.jclepro.2018.03.254",
+    "reviews_that_cite": [
+      "2-s2.0-85179304084",
+      "2-s2.0-85130888673"
+    ]
+  },
+  {
+    "title": "Petri Net Model of a Smart Factory in the Frame of Industry 4.0",
+    "eid": "2-s2.0-85046684151",
+    "doi": "10.1016/j.ifacol.2018.03.046",
+    "reviews_that_cite": [
+      "2-s2.0-85134026891"
+    ]
+  },
+  {
+    "title": "Decision support to product configuration considering component replenishment uncertainty: A stochastic programming approach",
+    "eid": "2-s2.0-85036513848",
+    "doi": "10.1016/j.dss.2017.11.004",
+    "reviews_that_cite": [
+      "2-s2.0-85115053729"
+    ]
+  }
+]

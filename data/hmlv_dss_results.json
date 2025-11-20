@@ -1,0 +1,2212 @@
+[
+  {
+    "title": "Flexible Symbiosis for Simulation Optimization in Production Scheduling: A Design Strategy for Adaptive Decision Support in Industry 5.0",
+    "doi": "10.3390/jmmp8060275",
+    "scopus_id": "2-s2.0-85213223406"
+  },
+  {
+    "title": "Investigation on the mechanical and environmental behaviour of 3D-printed molds for manufacturing of CFRP components",
+    "doi": "10.1007/s00170-024-14778-z",
+    "scopus_id": "2-s2.0-85208916999"
+  },
+  {
+    "title": "Balancing heterogeneous assembly line with multi-skilled human-robot collaboration via Adaptive cooperative co-evolutionary algorithm",
+    "doi": "10.1016/j.swevo.2024.101762",
+    "scopus_id": "2-s2.0-85208484988"
+  },
+  {
+    "title": "Enhancing internal supply chain management in manufacturing through a simulation-based digital twin platform",
+    "doi": "10.1016/j.cie.2024.110670",
+    "scopus_id": "2-s2.0-85207065956"
+  },
+  {
+    "title": "Transitioning trends into action: A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making",
+    "doi": "10.1016/j.cie.2024.110616",
+    "scopus_id": "2-s2.0-85206816729"
+  },
+  {
+    "title": "Learning-enabled flexible job-shop scheduling for scalable smart manufacturing",
+    "doi": "10.1016/j.jmsy.2024.09.011",
+    "scopus_id": "2-s2.0-85205666227"
+  },
+  {
+    "title": "Joint optimization of job scheduling, condition-based maintenance planning, and spare parts ordering for degrading production systems",
+    "doi": "10.1016/j.ress.2024.110447",
+    "scopus_id": "2-s2.0-85201642398"
+  },
+  {
+    "title": "BHARAT: A simple and effective multi-criteria decision-making method that does not need fuzzy logic, Part-1: Multi-attribute decision-making applications in the industrial environment",
+    "doi": "10.5267/j.ijiec.2023.12.003",
+    "scopus_id": "2-s2.0-85180648137"
+  },
+  {
+    "title": "A Decision Framework for Selecting Highly Sustainable Packaging Circular Model in Mass-Customized Packaging Industry",
+    "doi": "10.3390/app142210224",
+    "scopus_id": "2-s2.0-85210268625"
+  },
+  {
+    "title": "Modeling and solving integrated assembly line balancing, assembly line feeding, and facility sizing problems",
+    "doi": "10.1016/j.ijpe.2024.109354",
+    "scopus_id": "2-s2.0-85203449973"
+  },
+  {
+    "title": "PPB-MCTS: A novel distributed-memory parallel partial-backpropagation Monte Carlo tree search algorithm",
+    "doi": "10.1016/j.jpdc.2024.104944",
+    "scopus_id": "2-s2.0-85197056444"
+  },
+  {
+    "title": "Practical algorithms for weakly flexible job scheduling for smart mold component process",
+    "doi": "10.1016/j.future.2024.05.058",
+    "scopus_id": "2-s2.0-85195286528"
+  },
+  {
+    "title": "A deep reinforcement learning based approach for dynamic job shop scheduling considering variable processing time",
+    "doi": "10.1145/3690931.3690993",
+    "scopus_id": "2-s2.0-85212587515"
+  },
+  {
+    "title": "A machine learning-based simulation metamodeling method for dynamic scheduling in smart manufacturing systems",
+    "doi": "10.1016/j.cie.2024.110507",
+    "scopus_id": "2-s2.0-85201920306"
+  },
+  {
+    "title": "A smart system of Mass Personalization Product Service System (MP-PSS) driven by industrial modular configuration",
+    "doi": "10.1016/j.aei.2024.102758",
+    "scopus_id": "2-s2.0-85200925312"
+  },
+  {
+    "title": "Two-stage double deep Q-network algorithm considering external non-dominant set for multi-objective dynamic flexible job shop scheduling problems",
+    "doi": "10.1016/j.swevo.2024.101660",
+    "scopus_id": "2-s2.0-85198718989"
+  },
+  {
+    "title": "Optimizing Industrial Maintenance Scheduling Through Deep Reinforcement Learning and Simulation Integration",
+    "doi": "10.3233/FAIA240374",
+    "scopus_id": "2-s2.0-85217063856"
+  },
+  {
+    "title": "APPLYING ADDITIVE MANUFACTURING TECHNOLOGIES TO A SUPPLY CHAIN: A PETRI NET\u2013BASED DECISION MODEL",
+    "doi": "10.61822/amcs-2024-0035",
+    "scopus_id": "2-s2.0-85206822653"
+  },
+  {
+    "title": "A self-learning particle swarm optimization for bi-level assembly scheduling of material-sensitive orders",
+    "doi": "10.1016/j.cie.2024.110427",
+    "scopus_id": "2-s2.0-85200139174"
+  },
+  {
+    "title": "A recurrent reinforcement learning strategy for optimal scheduling of partially observable job-shop and flow-shop batch chemical plants under uncertainty",
+    "doi": "10.1016/j.compchemeng.2024.108748",
+    "scopus_id": "2-s2.0-85195371951"
+  },
+  {
+    "title": "Optimization of Process, Knowledge, and Manufacturing Management in Customized Production: A Graph-Based Approach for Manufacturing Planning",
+    "doi": "10.1016/j.ifacol.2024.09.103",
+    "scopus_id": "2-s2.0-85208063559"
+  },
+  {
+    "title": "Machine Learning prediction model for Dynamic Scheduling of Hybrid Flow-Shop based on Metaheuristic",
+    "doi": "10.1016/j.ifacol.2024.09.077",
+    "scopus_id": "2-s2.0-85208058917"
+  },
+  {
+    "title": "Rainbow Versus Deep Q-Network: A Reinforcement Learning Comparison on the Flexible Job-Shop Problem",
+    "doi": "10.1016/j.ifacol.2024.09.176",
+    "scopus_id": "2-s2.0-85208041486"
+  },
+  {
+    "title": "\"smart\" Lead Time Prediction in SMEs environments: A theoretical framework proposal",
+    "doi": "10.1016/j.ifacol.2024.09.165",
+    "scopus_id": "2-s2.0-85208023240"
+  },
+  {
+    "title": "Solving Flexible Job-Shop Scheduling Problem with Heterogeneous Graph Neural Network Based on Relation and Deep Reinforcement Learning",
+    "doi": "10.3390/machines12080584",
+    "scopus_id": "2-s2.0-85202642909"
+  },
+  {
+    "title": "The use of reinforcement learning for material flow control: An assessment by simulation",
+    "doi": "10.1016/j.ijpe.2024.109312",
+    "scopus_id": "2-s2.0-85196277178"
+  },
+  {
+    "title": "Bottleneck alleviation and scheduling optimization of flexible manufacturing system based on information-energy flow model",
+    "doi": "10.1016/j.swevo.2024.101600",
+    "scopus_id": "2-s2.0-85195057624"
+  },
+  {
+    "title": "Smart scheduling of dynamic job shop based on discrete event simulation and deep reinforcement learning",
+    "doi": "10.1007/s10845-023-02161-w",
+    "scopus_id": "2-s2.0-85162916963"
+  },
+  {
+    "title": "Reducing Energy Consumption in Electronic Component Manufacturing through Large Neighborhood Search",
+    "doi": "10.1145/3638530.3664132",
+    "scopus_id": "2-s2.0-85201952996"
+  },
+  {
+    "title": "Fast Pareto set approximation for multi-objective flexible job shop scheduling via parallel preference-conditioned graph reinforcement learning",
+    "doi": "10.1016/j.swevo.2024.101605",
+    "scopus_id": "2-s2.0-85194182765"
+  },
+  {
+    "title": "A Double Deep Q-Network framework for a flexible job shop scheduling problem with dynamic job arrivals and urgent job insertions",
+    "doi": "10.1016/j.engappai.2024.108487",
+    "scopus_id": "2-s2.0-85191255375"
+  },
+  {
+    "title": "Enhancing Make-to-Order Manufacturing Agility: When Flexible Capacity Meets Dynamic Pricing",
+    "doi": "10.1177/10591478241249122",
+    "scopus_id": "2-s2.0-85200494794"
+  },
+  {
+    "title": "A Comprehensive Decision-Making Approach for Strategic Product Module Planning in Mass Customization",
+    "doi": "10.3390/math12111745",
+    "scopus_id": "2-s2.0-85195969479"
+  },
+  {
+    "title": "Introducing PetriRL: An innovative framework for JSSP resolution integrating Petri nets and event-based reinforcement learning",
+    "doi": "10.1016/j.jmsy.2024.04.028",
+    "scopus_id": "2-s2.0-85192253912"
+  },
+  {
+    "title": "Unleashing mixed-reality capability in Deep Reinforcement Learning-based robot motion generation towards safe human\u2013robot collaboration",
+    "doi": "10.1016/j.jmsy.2024.03.015",
+    "scopus_id": "2-s2.0-85190069993"
+  },
+  {
+    "title": "Measuring complexity in manufacturing systems: a new metric in flow shop (Fs) and job shop (Js) environments",
+    "doi": "10.1007/s11740-023-01237-z",
+    "scopus_id": "2-s2.0-85178362352"
+  },
+  {
+    "title": "An effective memetic algorithm for distributed flexible job shop scheduling problem considering integrated sequencing flexibility",
+    "doi": "10.1016/j.eswa.2023.122734",
+    "scopus_id": "2-s2.0-85179121383"
+  },
+  {
+    "title": "A Subgraph-Based Hierarchical Q-Learning Approach to Optimal Resource Scheduling for Complex Industrial Networks",
+    "doi": "10.1109/TCSI.2023.3328901",
+    "scopus_id": "2-s2.0-85178025982"
+  },
+  {
+    "title": "A Systematic Literature Review: Key Performance Indicators on Feeding-as-a-Service",
+    "doi": "10.3233/ATDE240170",
+    "scopus_id": "2-s2.0-85191338996"
+  },
+  {
+    "title": "Multi-Agent Reinforcement Learning for Job Shop Scheduling in Dynamic Environments",
+    "doi": "10.3390/su16083234",
+    "scopus_id": "2-s2.0-85191462117"
+  },
+  {
+    "title": "A Decentralized Optimization Algorithm for Multi-Agent Job Shop Scheduling with Private Information",
+    "doi": "10.3390/math12070971",
+    "scopus_id": "2-s2.0-85190250875"
+  },
+  {
+    "title": "Imperialist competitive algorithm for unrelated parallel machine scheduling with sequence-and-machine-dependent setups and compatibility and workload constraints",
+    "doi": "10.1016/j.cie.2024.110086",
+    "scopus_id": "2-s2.0-85188710439"
+  },
+  {
+    "title": "Long-sighted dispatching rules for manufacturing scheduling problem in Industry 4.0 hybrid approach",
+    "doi": "10.1016/j.cie.2024.110006",
+    "scopus_id": "2-s2.0-85186537548"
+  },
+  {
+    "title": "Scheduling identical serial-batching machines in the engine manufacturing supply chain by an integrated variable neighborhood search algorithm",
+    "doi": "10.1016/j.cor.2024.106552",
+    "scopus_id": "2-s2.0-85183147594"
+  },
+  {
+    "title": "An end-to-end deep reinforcement learning method based on graph neural network for distributed job-shop scheduling problem",
+    "doi": "10.1016/j.eswa.2023.121756",
+    "scopus_id": "2-s2.0-85173449143"
+  },
+  {
+    "title": "Job shop smart manufacturing scheduling by deep reinforcement learning",
+    "doi": "10.1016/j.jii.2024.100582",
+    "scopus_id": "2-s2.0-85185201017"
+  },
+  {
+    "title": "A genetic algorithm with critical path-based variable neighborhood search for distributed assembly job shop scheduling problem",
+    "doi": "10.1016/j.swevo.2024.101485",
+    "scopus_id": "2-s2.0-85183450109"
+  },
+  {
+    "title": "Association rules combined fuzzy decision quality control technology in intelligent manufacturing",
+    "doi": "10.1016/j.iswa.2024.200331",
+    "scopus_id": "2-s2.0-85182912990"
+  },
+  {
+    "title": "Scheduling choice method for flexible job shop problems using a fuzzy decision maker",
+    "doi": "10.1016/j.iswa.2023.200302",
+    "scopus_id": "2-s2.0-85178026266"
+  },
+  {
+    "title": "Flexible Job Shop Scheduling via Dual Attention Network-Based Reinforcement Learning",
+    "doi": "10.1109/TNNLS.2023.3306421",
+    "scopus_id": "2-s2.0-85171754780"
+  },
+  {
+    "title": "A Collaborative Scheduling Algorithm for Real-Time Production and Opportunistic Maintenance Under Cloud Manufacturing Paradigm",
+    "doi": "10.1109/TR.2023.3311625",
+    "scopus_id": "2-s2.0-85171535894"
+  },
+  {
+    "title": "Manufacturing task data chain-driven production logistics trajectory analysis and optimization decision making method",
+    "doi": "10.1007/s40436-023-00454-0",
+    "scopus_id": "2-s2.0-85169697723"
+  },
+  {
+    "title": "Data-driven simulation-based decision support system for resource allocation in industry 4.0 and smart manufacturing",
+    "doi": "10.1016/j.jmsy.2023.11.019",
+    "scopus_id": "2-s2.0-85183766753"
+  },
+  {
+    "title": "A smart system of Customer- product Interaction Life Cycle (CILC) in industrial Internet era for mass personalization from industrial practice survey: identification, definition, acquisition and parsing",
+    "doi": "10.1007/s10845-022-02070-4",
+    "scopus_id": "2-s2.0-85146307451"
+  },
+  {
+    "title": "Artificial intelligence-based method for forecasting flowtime in job shops",
+    "doi": "10.1108/VJIKMS-08-2021-0146",
+    "scopus_id": "2-s2.0-85125414044"
+  },
+  {
+    "title": "Unified DRL for Enhanced Flexible Job-Shop Scheduling with Transportation Constraints",
+    "doi": "10.1109/CAC63892.2024.10864691",
+    "scopus_id": "2-s2.0-86000759203"
+  },
+  {
+    "title": "Production-Logistics Collaborative Scheduling in Dynamic Flexible Job Shops via Multi-Objective Deep Reinforcement Learning",
+    "doi": "10.1109/SMC54092.2024.10831278",
+    "scopus_id": "2-s2.0-85217867109"
+  },
+  {
+    "title": "ENERGY PRICE AND WORKLOAD RELATED DISPATCHING RULE: BALANCING ENERGY AND PRODUCTION LOGISTICS COSTS",
+    "doi": "10.1109/WSC63780.2024.10838840",
+    "scopus_id": "2-s2.0-85217616912"
+  },
+  {
+    "title": "A Rule and Network Dual-Driven Dynamic Scheduling Approach for Complex Flexible Manufacturing Job Shop",
+    "doi": "10.1109/RCAE62637.2024.10834207",
+    "scopus_id": "2-s2.0-85217079892"
+  },
+  {
+    "title": "Deriving adequate insights in HMLV manufacturing",
+    "doi": "10.1016/j.procir.2024.10.261",
+    "scopus_id": "2-s2.0-85214996112"
+  },
+  {
+    "title": "Deriving adequate insights in HMLV manufacturing",
+    "doi": "10.1016/j.procir.2024.10.261",
+    "scopus_id": "2-s2.0-85213042559"
+  },
+  {
+    "title": "Research on the Application of Evolutionary Algorithms Enhanced by Deep Learning in Intelligent Manufacturing Scheduling",
+    "doi": "10.1109/ICMLCA63499.2024.10754379",
+    "scopus_id": "2-s2.0-85212669745"
+  },
+  {
+    "title": "Impact and Critical Factors in Heijunka Implementation: An Action Research Study",
+    "doi": "10.3926/JIEM.6292",
+    "scopus_id": "2-s2.0-85211760901"
+  },
+  {
+    "title": "INVESTIGATION OF NON-VALUE-ADDED ACTIVITIES TO REDUCE LEAD TIME IN THE MASS-CUSTOMIZED GLASS PROCESS INDUSTRY",
+    "doi": "10.23055/ijietap.2024.31.5.9997",
+    "scopus_id": "2-s2.0-85207622931"
+  },
+  {
+    "title": "Multi-objective personnel scheduling problem with multiple qualification and client\u2019s satisfaction: real case",
+    "doi": "10.1007/s10696-024-09570-w",
+    "scopus_id": "2-s2.0-85207255017"
+  },
+  {
+    "title": "Digital twin-based multi-granularity synchronisation for production-warehousing under batch processing mode",
+    "doi": "10.1080/00207543.2024.2408671",
+    "scopus_id": "2-s2.0-85205532226"
+  },
+  {
+    "title": "Multi-enterprise Dynamic Task Scheduling Approach for Industrial Internet-of-things",
+    "doi": "10.23919/CCC63176.2024.10661681",
+    "scopus_id": "2-s2.0-85205496815"
+  },
+  {
+    "title": "A user-friendly toolkit to select and design multi-purpose grippers for modular robotic systems",
+    "doi": "10.1016/j.procir.2024.07.002",
+    "scopus_id": "2-s2.0-85204084969"
+  },
+  {
+    "title": "A forecast model for workers' performance in mass customised production",
+    "doi": "10.1504/IJISE.2024.140672",
+    "scopus_id": "2-s2.0-85203193391"
+  },
+  {
+    "title": "Simulation analysis and development of priority dispatching rules for a partial flexible job shop",
+    "doi": "10.1504/IJSOM.2024.140423",
+    "scopus_id": "2-s2.0-85201114704"
+  },
+  {
+    "title": "Deep Reinforcement Learning Based on Graph Neural Network for Flexible Job Shop Scheduling Problem with Lot Streaming",
+    "doi": "10.1007/978-981-97-5675-9_8",
+    "scopus_id": "2-s2.0-85201093517"
+  },
+  {
+    "title": "A Multi-action Reinforcement Learning Framework via Pointer Graph Neural Network for Flexible Job-Shop Scheduling Problems with Resource Transfer",
+    "doi": "10.1007/978-981-97-5581-3_15",
+    "scopus_id": "2-s2.0-85201087367"
+  },
+  {
+    "title": "A game-theoretical analysis of mass customization strategy on conspicuous products",
+    "doi": "10.1117/12.3035465",
+    "scopus_id": "2-s2.0-85200341219"
+  },
+  {
+    "title": "Energy Estimation and Production Scheduling in Job Shop Using Machine Learning",
+    "doi": "10.1109/ACCESS.2024.3430218",
+    "scopus_id": "2-s2.0-85199018521"
+  },
+  {
+    "title": "Reducing Lead Times in Manufacturing with Real-Time Data Visualizations",
+    "doi": "10.1109/SIEDS61124.2024.10534636",
+    "scopus_id": "2-s2.0-85195270622"
+  },
+  {
+    "title": "Deep Reinforcement Learning for Dynamic Flexible Job-Shop Scheduling with Automated Guided Vehicles",
+    "doi": "10.1007/978-981-97-0194-0_11",
+    "scopus_id": "2-s2.0-85193245130"
+  },
+  {
+    "title": "RTMN 2.0\u2014An Extension of Robot Task Modeling and Notation (RTMN) Focused on Human\u2013Robot Collaboration",
+    "doi": "10.3390/app14010283",
+    "scopus_id": "2-s2.0-85192441999"
+  },
+  {
+    "title": "Expert-Guided Deep Reinforcement Learning for\u00a0Flexible Job Shop Scheduling Problem",
+    "doi": "10.1007/978-981-97-2275-4_4",
+    "scopus_id": "2-s2.0-85192182500"
+  },
+  {
+    "title": "An Improved Harris Hawk Optimization Algorithm for Flexible Job Shop Scheduling Problem",
+    "doi": "10.32604/cmc.2023.045826",
+    "scopus_id": "2-s2.0-85189331830"
+  },
+  {
+    "title": "Challenges of industrial wastewater treatment: utilizing Membrane bioreactors (MBRs) in conjunction with artificial intelligence (AI) technology",
+    "doi": "10.1080/21681015.2024.2330401",
+    "scopus_id": "2-s2.0-85188448870"
+  },
+  {
+    "title": "Decision support tools for product customisation: an in-depth review",
+    "doi": "10.1504/IJMR.2024.136569",
+    "scopus_id": "2-s2.0-85185409365"
+  },
+  {
+    "title": "A cooperative coevolutionary hyper-heuristic approach to solve lot-sizing and job shop scheduling problems using genetic programming",
+    "doi": "10.1080/00207543.2023.2301044",
+    "scopus_id": "2-s2.0-85182189258"
+  },
+  {
+    "title": "Lot Sizing and Scheduling Problem in Distributed Heterogeneous Hybrid Flow Shop and Learning-Driven Iterated Local Search Algorithm",
+    "doi": "10.1109/TASE.2023.3326301",
+    "scopus_id": "2-s2.0-85181576833"
+  },
+  {
+    "title": "Metaheuristic Optimization for Sustainable Unrelated Parallel Machine Scheduling: A Concise Overview With a Proof-of-Concept Study",
+    "doi": "10.1109/ACCESS.2023.3347047",
+    "scopus_id": "2-s2.0-85181572452"
+  },
+  {
+    "title": "Learning to schedule dynamic distributed reconfigurable workshops using expected deep Q-network",
+    "doi": "10.1016/j.aei.2023.102307",
+    "scopus_id": "2-s2.0-85180008744"
+  },
+  {
+    "title": "Deep Reinforcement Learning With a Look-Ahead Search for Robotic Cell Scheduling",
+    "doi": "10.1109/TSMC.2023.3317390",
+    "scopus_id": "2-s2.0-85174810744"
+  },
+  {
+    "title": "A Digital Twin-Based Decision Support System for Dynamic Labor Planning",
+    "doi": "10.1007/978-981-99-6062-0_20",
+    "scopus_id": "2-s2.0-85174636636"
+  },
+  {
+    "title": "The Role of Throughput Accounting in Making Decision in Small Batch Production Environment",
+    "doi": "10.1007/978-3-031-44282-7_36",
+    "scopus_id": "2-s2.0-85174440149"
+  },
+  {
+    "title": "Power Consumption and\u00a0Process Cost Prediction of\u00a0Customized Products Using Explainable AI: A Case in\u00a0the\u00a0Steel Industry",
+    "doi": "10.1007/978-3-031-38165-2_135",
+    "scopus_id": "2-s2.0-85172726580"
+  },
+  {
+    "title": "Investigation of scheduling integration of flexible manufacturing systems for mass customisation",
+    "doi": "10.1080/00207543.2023.2217272",
+    "scopus_id": "2-s2.0-85166760636"
+  },
+  {
+    "title": "Simultaneous Production Scheduling and Maintenance in Multi-Stage Production Systems: A Synergic Approach",
+    "doi": "10.1109/TASE.2023.3285767",
+    "scopus_id": "2-s2.0-85163545613"
+  },
+  {
+    "title": "Designing distributed decision-making authorities for smart factories\u2013understanding the role of manufacturing network architecture",
+    "doi": "10.1080/00207543.2023.2217285",
+    "scopus_id": "2-s2.0-85161543574"
+  },
+  {
+    "title": "Large-Scale Dynamic Scheduling for Flexible Job-Shop with Random Arrivals of New Jobs by Hierarchical Reinforcement Learning",
+    "doi": "10.1109/TII.2023.3272661",
+    "scopus_id": "2-s2.0-85159843114"
+  },
+  {
+    "title": "Using an incentive-compatibility due-date quotation to improve the performance for one-of-a-kind production shop floors controlled by load-based pull systems",
+    "doi": "10.1080/00207543.2023.2175308",
+    "scopus_id": "2-s2.0-85148584658"
+  },
+  {
+    "title": "Implementing Additive Manufacturing for Sustainability in Operations: Analysis of Enabling Factors",
+    "doi": "10.1109/TEM.2022.3206234",
+    "scopus_id": "2-s2.0-85139509033"
+  },
+  {
+    "title": "Design and Optimization of SMT Reflow Soldering Curves Driven by Digital Twins",
+    "doi": "10.1109/MSN63567.2024.00058",
+    "scopus_id": "2-s2.0-105010304387"
+  },
+  {
+    "title": "Digital Twin-Based Production-Delivery Synchronization Under Batch Processing Mode",
+    "doi": "10.1109/SOLI63266.2024.10955979",
+    "scopus_id": "2-s2.0-105006476712"
+  },
+  {
+    "title": "BI-OBJECTIVE SUSTAINABLE FLEXIBLE JOB SHOP SCHEDULING PROBLEM WITH BATCH CONSIDERATION",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-105003234101"
+  },
+  {
+    "title": "TRANSFORMING SUPPLY CHAIN MANAGEMENT WITH ARITIFICAL INTELLGIENCE, MACHINE LEARNING, DEEP LEARNING, QUANTUM COMPUTING, AND CLOUD COMPUTING: INNOVATION FOR BOOSTING EFFICIENCY AND REINFORCING RESILIECNE IN AUSTRALIAN INDSUTRY 5.0",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-105003200379"
+  },
+  {
+    "title": "Exploring CNN-BiLSTM in Forecasting Tourist Arrivals",
+    "doi": "10.1109/ICITSI65188.2024.10929294",
+    "scopus_id": "2-s2.0-105002473490"
+  },
+  {
+    "title": "Dynamic scheduling for flexible job shop with insufficient transportation resources via graph neural network and deep reinforcement learning",
+    "doi": "10.1016/j.cie.2023.109718",
+    "scopus_id": "2-s2.0-85176597102"
+  },
+  {
+    "title": "Client-engaged collaborative pre-design framework for modular housing",
+    "doi": "10.1016/j.autcon.2023.105123",
+    "scopus_id": "2-s2.0-85174607044"
+  },
+  {
+    "title": "Surprisingly Popular-Based Adaptive Memetic Algorithm for Energy-Efficient Distributed Flexible Job Shop Scheduling",
+    "doi": "10.1109/TCYB.2023.3280175",
+    "scopus_id": "2-s2.0-85162669563"
+  },
+  {
+    "title": "A decentralized production- distribution scheduling problem: Solution and analysis",
+    "doi": "10.1051/ro/2023160",
+    "scopus_id": "2-s2.0-85179134983"
+  },
+  {
+    "title": "A cooperative hierarchical deep reinforcement learning based multi-agent method for distributed job shop scheduling problem with random job arrivals",
+    "doi": "10.1016/j.cie.2023.109650",
+    "scopus_id": "2-s2.0-85173274746"
+  },
+  {
+    "title": "An improved bi-objective salp swarm algorithm based on decomposition for green scheduling in flexible manufacturing cellular environments with multiple automated guided vehicles",
+    "doi": "10.1007/s00500-023-09016-9",
+    "scopus_id": "2-s2.0-85168142061"
+  },
+  {
+    "title": "Multi-objective green scheduling of integrated flexible job shop and automated guided vehicles",
+    "doi": "10.1016/j.engappai.2023.106864",
+    "scopus_id": "2-s2.0-85166920185"
+  },
+  {
+    "title": "A multi-agent system for integrated scheduling and maintenance planning of the flexible job shop",
+    "doi": "10.1016/j.cor.2023.106365",
+    "scopus_id": "2-s2.0-85166480289"
+  },
+  {
+    "title": "A deep multi-agent reinforcement learning approach to solve dynamic job shop scheduling problem",
+    "doi": "10.1016/j.cor.2023.106294",
+    "scopus_id": "2-s2.0-85163036561"
+  },
+  {
+    "title": "The Problem of Machine Part Operations Optimal Scheduling in the Production Industry Based on a Customer\u2019s Order",
+    "doi": "10.3390/app131911049",
+    "scopus_id": "2-s2.0-85174173839"
+  },
+  {
+    "title": "Industrial Product Quality Analysis Based on Online Machine Learning",
+    "doi": "10.3390/s23198167",
+    "scopus_id": "2-s2.0-85174069975"
+  },
+  {
+    "title": "Integrating information, financial, and material flows in a chemical supply chain",
+    "doi": "10.1016/j.compchemeng.2023.108363",
+    "scopus_id": "2-s2.0-85168163765"
+  },
+  {
+    "title": "Addressing distributional shifts in operations management: The case of order fulfillment in customized production",
+    "doi": "10.1111/poms.14021",
+    "scopus_id": "2-s2.0-85164138029"
+  },
+  {
+    "title": "Bi-Objective Modeling and Optimization for Stochastic Two-Stage Open Shop Scheduling Problems in the Sharing Economy",
+    "doi": "10.1109/TEM.2021.3095954",
+    "scopus_id": "2-s2.0-85115006983"
+  },
+  {
+    "title": "A decision support framework for sustainable production planning of paper recycling systems",
+    "doi": "10.1016/j.cie.2023.109500",
+    "scopus_id": "2-s2.0-85167798618"
+  },
+  {
+    "title": "Customized orders management in connected make-to-order supply chains",
+    "doi": "10.1007/s12063-023-00364-1",
+    "scopus_id": "2-s2.0-85151682193"
+  },
+  {
+    "title": "Multiobjective Optimization for FJSP under Immediate Predecessor Constraints Based OFA and Pythagorean Fuzzy Set",
+    "doi": "10.1109/TFUZZ.2023.3245097",
+    "scopus_id": "2-s2.0-85149388883"
+  },
+  {
+    "title": "A multi-objective mathematical model and evolutionary algorithm for the dual-resource flexible job-shop scheduling problem with sequencing flexibility",
+    "doi": "10.1007/s10696-022-09446-x",
+    "scopus_id": "2-s2.0-85124524461"
+  },
+  {
+    "title": "Optimizing dispatching strategies for semiconductor manufacturing facilities with genetic programming",
+    "doi": "10.1145/3583131.3590402",
+    "scopus_id": "2-s2.0-85167696164"
+  },
+  {
+    "title": "Automatically evolving preference-based dispatching rules for multi-objective job shop scheduling",
+    "doi": "10.1007/s10951-023-00783-9",
+    "scopus_id": "2-s2.0-85153772857"
+  },
+  {
+    "title": "Optimization Experiment of Production Processes Using a Dynamic Decision Support Method: A Solution to Complex Problems in Industrial Manufacturing for Small and Medium-Sized Enterprises",
+    "doi": "10.3390/s23094498",
+    "scopus_id": "2-s2.0-85159204910"
+  },
+  {
+    "title": "Dynamic assignment of a multi-skilled workforce in job shops: An approximate dynamic programming approach",
+    "doi": "10.1016/j.ejor.2022.08.049",
+    "scopus_id": "2-s2.0-85138803589"
+  },
+  {
+    "title": "A Job-Shop Scheduling Decision-Making Model for Sustainable Production Planning With Power Constraint",
+    "doi": "10.1109/TEM.2021.3103108",
+    "scopus_id": "2-s2.0-85114734680"
+  },
+  {
+    "title": "A multi-agent system for FJSP with setup and transportation times",
+    "doi": "10.1016/j.eswa.2022.119474",
+    "scopus_id": "2-s2.0-85145661597"
+  },
+  {
+    "title": "Collaborative contracting for Manufacturing-as-a-Service (MaaS) by information content measurement and decision tree learning",
+    "doi": "10.1016/j.aei.2023.101911",
+    "scopus_id": "2-s2.0-85149383898"
+  },
+  {
+    "title": "A Self-Learning Based Dynamic Multi-Objective Evolutionary Algorithm for Resilient Scheduling Problems in Steelmaking Plants",
+    "doi": "10.1109/TASE.2022.3168385",
+    "scopus_id": "2-s2.0-85132539718"
+  },
+  {
+    "title": "Toward automated algorithm configuration for distributed hybrid flow shop scheduling with multiprocessor tasks",
+    "doi": "10.1016/j.knosys.2023.110309",
+    "scopus_id": "2-s2.0-85147193306"
+  },
+  {
+    "title": "Improvement of Nature-Based Optimization Methods for Solving Job shop Scheduling Problems",
+    "doi": "10.14445/22315381/IJETT-V71I3P232",
+    "scopus_id": "2-s2.0-85151349836"
+  },
+  {
+    "title": "A multi-objective linear programming model for scheduling part families and designing a group layout in cellular manufacturing systems",
+    "doi": "10.1016/j.cor.2022.106090",
+    "scopus_id": "2-s2.0-85142761498"
+  },
+  {
+    "title": "Batch sizing control of a flow shop based on the entropy-function theorems",
+    "doi": "10.1016/j.eswa.2022.118958",
+    "scopus_id": "2-s2.0-85140739454"
+  },
+  {
+    "title": "Sustainability Oriented Vehicle Route Planning Based on Time-Dependent Arc Travel Durations",
+    "doi": "10.3390/su15043208",
+    "scopus_id": "2-s2.0-85149271803"
+  },
+  {
+    "title": "Flexible Job-Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning",
+    "doi": "10.1109/TII.2022.3189725",
+    "scopus_id": "2-s2.0-85134304558"
+  },
+  {
+    "title": "Knowledge-driven framework for industrial robotic systems",
+    "doi": "10.1007/s10845-021-01826-8",
+    "scopus_id": "2-s2.0-85113135885"
+  },
+  {
+    "title": "Examining the Technical and Social Foundations of Mass Customization Capability: A Capability Hierarchy View",
+    "doi": "10.1109/TEM.2021.3061216",
+    "scopus_id": "2-s2.0-85103235529"
+  },
+  {
+    "title": "Extracting Key Value Streams Using Process Mining and Machine Learning",
+    "doi": "10.1109/IEEECONF58110.2023.10520644",
+    "scopus_id": "2-s2.0-85193946158"
+  },
+  {
+    "title": "Analyzing Industry 4.0 Adoption Barriers of Small and Medium-sized Enterprises and Existing Support",
+    "doi": "10.1109/IEEECONF58110.2023.10520600",
+    "scopus_id": "2-s2.0-85193923650"
+  },
+  {
+    "title": "Job Shop Scheduling Problem Using Proximal Policy Optimization",
+    "doi": "10.1109/IEEM58616.2023.10406397",
+    "scopus_id": "2-s2.0-85186102438"
+  },
+  {
+    "title": "Deep Learning Enabling Digital Twin Applications in Production Scheduling: Case of Flexible Job Shop Manufacturing Environment",
+    "doi": "10.1109/WSC60868.2023.10407811",
+    "scopus_id": "2-s2.0-85185377333"
+  },
+  {
+    "title": "Versatile information provisioning in a configure-to-order production environment; a case study",
+    "doi": "10.1016/j.procir.2023.09.195",
+    "scopus_id": "2-s2.0-85184600948"
+  },
+  {
+    "title": "STRATEGY OPTIMIZATION FOR COMMUNITY CANTEEN OPERATIONS BASED ON MASS CUSTOMIZATION",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85184100459"
+  },
+  {
+    "title": "DISPATCHING RULES FOR SCHEDULING PRODUCT PORTFOLIOS",
+    "doi": "10.23055/ijietap.2023.30.6.8843",
+    "scopus_id": "2-s2.0-85181022343"
+  },
+  {
+    "title": "Implementation of Quality Control Tools in Woven Shirt Mass Customization for Enhancing Product Quality",
+    "doi": "10.31881/TLR.2023.126",
+    "scopus_id": "2-s2.0-85177424719"
+  },
+  {
+    "title": "Scheduling Optimization of Flexible Workshop Dynamics Based on Big Data",
+    "doi": "10.1109/ICAC57885.2023.10275281",
+    "scopus_id": "2-s2.0-85175524667"
+  },
+  {
+    "title": "DATA ENGINEERING IN CRISP-DM PROCESS PRODUCTION DATA \u2013 CASE STUDY",
+    "doi": "10.35784/acs-2023-26",
+    "scopus_id": "2-s2.0-85175329046"
+  },
+  {
+    "title": "A Non Inferior Set Optimization Model For Multi-objective Problems",
+    "doi": "10.1109/ICSP58490.2023.10248706",
+    "scopus_id": "2-s2.0-85174489528"
+  },
+  {
+    "title": "Deep Q Network Method for\u00a0Dynamic Job Shop Scheduling Problem",
+    "doi": "10.1007/978-3-031-43524-9_10",
+    "scopus_id": "2-s2.0-85174437189"
+  },
+  {
+    "title": "Exploring the Added Value of Additive Manufacturing in Sales Processes of Mass Customization Products",
+    "doi": "10.1007/978-3-031-34821-1_21",
+    "scopus_id": "2-s2.0-85172391287"
+  },
+  {
+    "title": "Can the Mass Customization Co-design Toolkit Help Healthcare Practitioners Reduce Bias and Achieve Better Patient Outcomes?",
+    "doi": "10.1007/978-3-031-34821-1_19",
+    "scopus_id": "2-s2.0-85172377733"
+  },
+  {
+    "title": "Recommendation of\u00a0Mass Customized Products with\u00a0a\u00a0Multi-agent System: A\u00a0Case Study",
+    "doi": "10.1007/978-3-031-34821-1_11",
+    "scopus_id": "2-s2.0-85172359432"
+  },
+  {
+    "title": "Production Strategy Selection in the Mass Customization Era Using Analytic Network Process",
+    "doi": "10.1007/978-3-031-34821-1_10",
+    "scopus_id": "2-s2.0-85172319516"
+  },
+  {
+    "title": "Collective Learning for Energy-centric Flexible Job Shop Scheduling",
+    "doi": "10.1109/ISIE51358.2023.10228029",
+    "scopus_id": "2-s2.0-85172112008"
+  },
+  {
+    "title": "OPTIMIZING PRODUCTION SCHEDULING THROUGH HYBRID DYNAMIC GENETIC-ADAPTIVE IMPROVED GRAVITATIONAL OPTIMIZATION ALGORITHM",
+    "doi": "10.24874/PES.SI.01.010",
+    "scopus_id": "2-s2.0-85171432631"
+  },
+  {
+    "title": "Construction of intelligent and flexible manufacturing cell for aerospace products",
+    "doi": "10.1117/12.2684671",
+    "scopus_id": "2-s2.0-85171276742"
+  },
+  {
+    "title": "Improved model and application of multi-objective optimization problem",
+    "doi": "10.1117/12.2688947",
+    "scopus_id": "2-s2.0-85170829255"
+  },
+  {
+    "title": "Implementation Scheme and Research of IoT Electronic \"intelligent Manufacturing\" Based on MES System",
+    "doi": "10.1117/12.2679540",
+    "scopus_id": "2-s2.0-85170821795"
+  },
+  {
+    "title": "Property mapping of LDPE during 3D printing: evaluating morphological development with X-ray scattering",
+    "doi": "10.3389/fmech.2023.1232562",
+    "scopus_id": "2-s2.0-85168424607"
+  },
+  {
+    "title": "Establishment of an Appropriate Data Analytic Platform for Developing a Wisdom Manufacturing System Using Decision Techniques",
+    "doi": "10.1007/978-3-031-28839-5_70",
+    "scopus_id": "2-s2.0-85161472069"
+  },
+  {
+    "title": "Decentral decision-making for energy-aware charging of intralogistics equipment",
+    "doi": "10.23773/2023_4",
+    "scopus_id": "2-s2.0-85158076571"
+  },
+  {
+    "title": "Manufacturing Execution Systems and Evaluation of Machine Efficiency in Manufacturing Systems: An Example of an Injection Machine",
+    "doi": "10.1007/978-3-031-24457-5_4",
+    "scopus_id": "2-s2.0-85151161051"
+  },
+  {
+    "title": "A Genetic Algorithm for a Real-Life Scheduling Problem in the Valve Industry",
+    "doi": "10.1007/978-3-031-24457-5_55",
+    "scopus_id": "2-s2.0-85151152190"
+  },
+  {
+    "title": "Multiple Size Cutting Stock Problem in Steel Industry",
+    "doi": "10.1007/978-3-031-24457-5_61",
+    "scopus_id": "2-s2.0-85151134592"
+  },
+  {
+    "title": "Design of Intelligent Decision Support System for Production Collaboration in Flexible Packaging Printing Enterprises",
+    "doi": "10.1007/978-981-19-9024-3_57",
+    "scopus_id": "2-s2.0-85151128147"
+  },
+  {
+    "title": "Job Scheduling Problem in the Production of Electrical Equipment",
+    "doi": "10.1007/978-3-031-24457-5_65",
+    "scopus_id": "2-s2.0-85151118983"
+  },
+  {
+    "title": "A Framework to Optimize Laser Welding Process by Machine Learning in a SME Environment",
+    "doi": "10.1007/978-3-031-25182-5_42",
+    "scopus_id": "2-s2.0-85151061679"
+  },
+  {
+    "title": "Learning to schedule (L2S): adaptive job shop scheduling using double deep Q network",
+    "doi": "10.1080/23080477.2023.2187528",
+    "scopus_id": "2-s2.0-85150645782"
+  },
+  {
+    "title": "Reinforcement learning-based dynamic production-logistics-integrated tasks allocation in smart factories",
+    "doi": "10.1080/00207543.2022.2142314",
+    "scopus_id": "2-s2.0-85142248035"
+  },
+  {
+    "title": "A framework for agility improvement projects in the post mass customisation era",
+    "doi": "10.1080/00207543.2022.2146228",
+    "scopus_id": "2-s2.0-85142239963"
+  },
+  {
+    "title": "Utilizing additive manufacturing and mass customization under capacity constraints",
+    "doi": "10.1007/s10845-022-02007-x",
+    "scopus_id": "2-s2.0-85138890456"
+  },
+  {
+    "title": "Cooperative Product Agents to Improve Manufacturing System Flexibility: A Model-Based Decision Framework",
+    "doi": "10.1109/TASE.2022.3156384",
+    "scopus_id": "2-s2.0-85126685132"
+  },
+  {
+    "title": "A hybrid simulation approach applied in sustainability performance assessment in make-to-order supply chains: The case of a commercial aircraft manufacturer",
+    "doi": "10.1080/17477778.2021.1931500",
+    "scopus_id": "2-s2.0-85107383542"
+  },
+  {
+    "title": "Analysis of a Collaborative Scheduling Model Applied in a Job Shop Manufacturing Environment",
+    "doi": "10.3390/machines10121138",
+    "scopus_id": "2-s2.0-85144708995"
+  },
+  {
+    "title": "The Contribution of Digital Technology to the Forecasting of Supply Chain Development, in IT Products, Modeling and Simulation of the Problem",
+    "doi": "10.3390/forecast4040055",
+    "scopus_id": "2-s2.0-85144528507"
+  },
+  {
+    "title": "Integrated modeling and optimization of production planning and scheduling in hybrid flow shop for order production mode",
+    "doi": "10.1016/j.cie.2022.108741",
+    "scopus_id": "2-s2.0-85142439495"
+  },
+  {
+    "title": "Manufacturing project scheduling considering human factors to minimize total cost and carbon footprints",
+    "doi": "10.1016/j.asoc.2022.109764",
+    "scopus_id": "2-s2.0-85141928334"
+  },
+  {
+    "title": "Dynamic job shop scheduling based on deep reinforcement learning for multi-agent manufacturing systems",
+    "doi": "10.1016/j.rcim.2022.102412",
+    "scopus_id": "2-s2.0-85133429544"
+  },
+  {
+    "title": "Blockchain-based mass customization framework using optimized production management for industry 4.0 applications",
+    "doi": "10.1016/j.jestch.2022.101151",
+    "scopus_id": "2-s2.0-85127293384"
+  },
+  {
+    "title": "Using inventory as energy storage for demand-side management of manufacturing operations",
+    "doi": "10.1016/j.jclepro.2022.134213",
+    "scopus_id": "2-s2.0-85138462741"
+  },
+  {
+    "title": "Towards data-driven additive manufacturing processes",
+    "doi": "10.1145/3564695.3564778",
+    "scopus_id": "2-s2.0-85144823077"
+  },
+  {
+    "title": "Hybrid Product Cost Calculation Model as a Decision Support Tool",
+    "doi": "10.17559/TV-20211231154627",
+    "scopus_id": "2-s2.0-85140838081"
+  },
+  {
+    "title": "A multi-dimensional cognitive framework for cognitive manufacturing based on OAR model",
+    "doi": "10.1016/j.jmsy.2022.09.019",
+    "scopus_id": "2-s2.0-85140781263"
+  },
+  {
+    "title": "Time-based resilience metric for smart manufacturing systems and optimization method with dual-strategy recovery",
+    "doi": "10.1016/j.jmsy.2022.08.010",
+    "scopus_id": "2-s2.0-85140737484"
+  },
+  {
+    "title": "An Application of a Decision Support System Enabled by a Hybrid Algorithmic Framework for Production Scheduling in an SME Manufacturer",
+    "doi": "10.3390/a15100372",
+    "scopus_id": "2-s2.0-85140581115"
+  },
+  {
+    "title": "Dynamic Scheduling Optimization of Production Workshops Based on Digital Twin",
+    "doi": "10.3390/app122010451",
+    "scopus_id": "2-s2.0-85140478997"
+  },
+  {
+    "title": "Real-time scheduling for distributed permutation flowshops with dynamic job arrivals using deep reinforcement learning",
+    "doi": "10.1016/j.aei.2022.101776",
+    "scopus_id": "2-s2.0-85139842319"
+  },
+  {
+    "title": "Novel Multi-Criteria Sustainable Evaluation for Production Scheduling Based on Fuzzy Analytic Network Process and Cumulative Prospect Theory-Enhanced VIKOR",
+    "doi": "10.1109/LRA.2022.3192210",
+    "scopus_id": "2-s2.0-85135204438"
+  },
+  {
+    "title": "Solving job scheduling problems in a resource preemption environment with multi-agent reinforcement learning",
+    "doi": "10.1016/j.rcim.2022.102324",
+    "scopus_id": "2-s2.0-85125543536"
+  },
+  {
+    "title": "Toward Energy-Efficient Rescheduling Decision Mechanisms for Flexible Job Shop with Dynamic Events and Alternative Process Plans",
+    "doi": "10.1109/TASE.2021.3115821",
+    "scopus_id": "2-s2.0-85117073057"
+  },
+  {
+    "title": "A skill- and feature-based approach to planning process monitoring in assembly planning",
+    "doi": "10.1007/s00170-022-09931-5",
+    "scopus_id": "2-s2.0-85137497501"
+  },
+  {
+    "title": "Robust supplier-selection and order-allocation in two-echelon supply networks: A parametric tolerance design approach",
+    "doi": "10.1016/j.cie.2022.108394",
+    "scopus_id": "2-s2.0-85133732875"
+  },
+  {
+    "title": "Matheuristics for the flowshop scheduling problem with controllable processing times and limited resource consumption to minimize total tardiness",
+    "doi": "10.1016/j.cor.2022.105880",
+    "scopus_id": "2-s2.0-85130819070"
+  },
+  {
+    "title": "Progressive Opportunistic Maintenance Policies for Service-Outsourcing Network With Prognostic Updating and Dynamical Optimization",
+    "doi": "10.1109/TR.2021.3074506",
+    "scopus_id": "2-s2.0-85105865859"
+  },
+  {
+    "title": "Digital twin-enabled dynamic scheduling with preventive maintenance using a double-layer Q-learning algorithm",
+    "doi": "10.1016/j.cor.2022.105823",
+    "scopus_id": "2-s2.0-85127545413"
+  },
+  {
+    "title": "Collaborative Multifidelity-Based Surrogate Models for Genetic Programming in Dynamic Flexible Job Shop Scheduling",
+    "doi": "10.1109/TCYB.2021.3050141",
+    "scopus_id": "2-s2.0-85100702487"
+  },
+  {
+    "title": "An approach for joint scheduling of production and predictive maintenance activities",
+    "doi": "10.1016/j.jmsy.2022.08.005",
+    "scopus_id": "2-s2.0-85136503313"
+  },
+  {
+    "title": "Human-Machine Collaborative Decision-Making Method Based on Confidence for Smart Workshop Dynamic Scheduling",
+    "doi": "10.1109/LRA.2022.3185369",
+    "scopus_id": "2-s2.0-85133711485"
+  },
+  {
+    "title": "Implementation of mass customization for competitive advantage in Indian industries: an empirical investigation",
+    "doi": "10.1007/s00170-022-09324-8",
+    "scopus_id": "2-s2.0-85130301745"
+  },
+  {
+    "title": "A Developed Optimization Model for Mass Production Scheduling Considering the Role of Waste Materials",
+    "doi": "10.24867/IJIEM-2022-2-307",
+    "scopus_id": "2-s2.0-85131939147"
+  },
+  {
+    "title": "Improving Delivery Performance in High-Mix Low-Volume Manufacturing by Model-Based and Data-Driven Methods",
+    "doi": "10.3390/app12115618",
+    "scopus_id": "2-s2.0-85131842973"
+  },
+  {
+    "title": "Prioritization of Environmental Uncertainty and Manufacturing Flexibility for Labor-Intensive Industry: A Case Study on Ready-Made Garment Industries in Bangladesh",
+    "doi": "10.3390/systems10030067",
+    "scopus_id": "2-s2.0-85131054526"
+  },
+  {
+    "title": "Deep Reinforcement Learning Multi-Agent System for Resource Allocation in Industrial Internet of Things",
+    "doi": "10.3390/s22114099",
+    "scopus_id": "2-s2.0-85130776566"
+  },
+  {
+    "title": "Joint decision-making of parallel machine scheduling restricted in job-machine release time and preventive maintenance with remaining useful life constraints",
+    "doi": "10.1016/j.ress.2022.108429",
+    "scopus_id": "2-s2.0-85125450295"
+  },
+  {
+    "title": "Dynamic Scheduling Method for Job-Shop Manufacturing Systems by Deep Reinforcement Learning with Proximal Policy Optimization",
+    "doi": "10.3390/su14095177",
+    "scopus_id": "2-s2.0-85129116715"
+  },
+  {
+    "title": "Swarm intelligent based metaheuristics for a bi-objective flexible job shop integrated supply chain scheduling problems",
+    "doi": "10.1016/j.asoc.2022.108794",
+    "scopus_id": "2-s2.0-85128169712"
+  },
+  {
+    "title": "Framework development and evaluation of Industry 4.0 technological aspects towards improving the circular economy-based supply chain",
+    "doi": "10.1108/IR-10-2021-0246",
+    "scopus_id": "2-s2.0-85125774313"
+  },
+  {
+    "title": "The Multiple Uses of Monte-Carlo Tree Search",
+    "doi": "10.3233/ATDE220190",
+    "scopus_id": "2-s2.0-85132833302"
+  },
+  {
+    "title": "Assembly Cell Automation Selection: A Simulation-Based Exploratory Evaluation",
+    "doi": "10.3233/ATDE220160",
+    "scopus_id": "2-s2.0-85132826724"
+  },
+  {
+    "title": "Reconfiguration Assessment for Production Volume Changes Using Discrete-Event Simulation: A Large-Size Highly-Customized Product Case Study",
+    "doi": "10.3233/ATDE220130",
+    "scopus_id": "2-s2.0-85132805088"
+  },
+  {
+    "title": "Exploring Conflicting Dynamics in Product and Production Development Within Industrialized House Building",
+    "doi": "10.3233/ATDE220199",
+    "scopus_id": "2-s2.0-85132804485"
+  },
+  {
+    "title": "Optimal decisions of modularity, prices and return policy in a dual-channel supply chain under mass customization",
+    "doi": "10.1016/j.tre.2022.102675",
+    "scopus_id": "2-s2.0-85126591809"
+  },
+  {
+    "title": "Real-time data-driven dynamic scheduling for flexible job shop with insufficient transportation resources using hybrid deep Q network",
+    "doi": "10.1016/j.rcim.2021.102283",
+    "scopus_id": "2-s2.0-85118113364"
+  },
+  {
+    "title": "Reinforcement learning for online optimization of job-shop scheduling in a smart manufacturing factory",
+    "doi": "10.1177/16878132221086120",
+    "scopus_id": "2-s2.0-85127046224"
+  },
+  {
+    "title": "Job shop rescheduling with rework and reconditioning in Industry 4.0: an event-driven approach",
+    "doi": "10.1007/s00170-021-08163-3",
+    "scopus_id": "2-s2.0-85122541755"
+  },
+  {
+    "title": "Improved Q-learning algorithm for solving permutation flow shop scheduling problems",
+    "doi": "10.1049/cim2.12042",
+    "scopus_id": "2-s2.0-85115255733"
+  },
+  {
+    "title": "Semiconductor final-test scheduling under setup operator constraints",
+    "doi": "10.1016/j.cor.2021.105619",
+    "scopus_id": "2-s2.0-85119281996"
+  },
+  {
+    "title": "Network-based dynamic dispatching rule generation mechanism for real-time production scheduling problems with dynamic job arrivals",
+    "doi": "10.1016/j.rcim.2021.102261",
+    "scopus_id": "2-s2.0-85115627677"
+  },
+  {
+    "title": "Predictive maintenance integrated production scheduling by applying deep generative prognostics models: approach, formulation and solution",
+    "doi": "10.1007/s11740-021-01064-0",
+    "scopus_id": "2-s2.0-85111478379"
+  },
+  {
+    "title": "HYBRID LEAN DECISION-MAKING FRAMEWORK INTEGRATING VALUE STREAM MAPPING AND SIMULATION: A MANUFACTURING CASE STUDY",
+    "doi": "10.24928/2022/0118",
+    "scopus_id": "2-s2.0-85170368620"
+  },
+  {
+    "title": "Solving scheduling problems with integrated online sustainability observation using heuristic optimization",
+    "doi": "10.24425/bpasts.2022.143830",
+    "scopus_id": "2-s2.0-85163764253"
+  },
+  {
+    "title": "A Conceptual Framework of Cyber-Physical Remanufacturing System",
+    "doi": "10.1109/Nanoman-AETS56035.2022.10119511",
+    "scopus_id": "2-s2.0-85160536675"
+  },
+  {
+    "title": "Demonstration of the Feasibility of Real Time Application of Machine Learning to Production Scheduling",
+    "doi": "10.1109/WSC57314.2022.10015436",
+    "scopus_id": "2-s2.0-85147456582"
+  },
+  {
+    "title": "Applied Reinforcement Learning for Decision Making in Industrial Simulation Environments",
+    "doi": "10.1109/WSC57314.2022.10015282",
+    "scopus_id": "2-s2.0-85147411209"
+  },
+  {
+    "title": "Using a systems approach to model a process digital twin",
+    "doi": "10.1016/j.ifacol.2022.09.677",
+    "scopus_id": "2-s2.0-85144583062"
+  },
+  {
+    "title": "Predicting makespan in Flexible Job Shop Scheduling Problem using Machine Learning",
+    "doi": "10.1016/j.ifacol.2022.09.305",
+    "scopus_id": "2-s2.0-85144570983"
+  },
+  {
+    "title": "Additive or Conventional Manufacturing for Spare Parts: Effect of Failure Rate Uncertainty on the Sourcing Option Decision",
+    "doi": "10.1016/j.ifacol.2022.09.543",
+    "scopus_id": "2-s2.0-85144557207"
+  },
+  {
+    "title": "Assessing the potential of decentralised scheduling: An experimental study for the job shop case",
+    "doi": "10.1016/j.ifacol.2022.10.104",
+    "scopus_id": "2-s2.0-85144526899"
+  },
+  {
+    "title": "A case study on the integration of assembly line balancing and feeding decisions",
+    "doi": "10.1016/j.ifacol.2022.09.376",
+    "scopus_id": "2-s2.0-85144523001"
+  },
+  {
+    "title": "A bilevel production planning using machine learning-based customer modeling",
+    "doi": "10.1299/jamdsm.2022jamdsm0037",
+    "scopus_id": "2-s2.0-85142860660"
+  },
+  {
+    "title": "Indoor positioning systems to digitalize manual production processes",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85142809999"
+  },
+  {
+    "title": "Research on Production Process Control Method of Discrete Manufacturing Digital Workshop",
+    "doi": "10.1109/ICCNEA57056.2022.00091",
+    "scopus_id": "2-s2.0-85142496296"
+  },
+  {
+    "title": "Configuring products using NSGA-II: warranty profits, performance\u2013price, and environmental emissions from the contractor perspective",
+    "doi": "10.1080/09544828.2022.2139524",
+    "scopus_id": "2-s2.0-85142121082"
+  },
+  {
+    "title": "An Overview on Smart Scheduling in MES: In the Context of Industry 4.0",
+    "doi": "10.1109/ICAC55051.2022.9911166",
+    "scopus_id": "2-s2.0-85141195498"
+  },
+  {
+    "title": "Sustainable Hyperautomation in High-Tech Manufacturing Industries: A Case of Linear Electromechanical Actuators",
+    "doi": "10.1109/ACCESS.2022.3205623",
+    "scopus_id": "2-s2.0-85139259776"
+  },
+  {
+    "title": "Toward a Collaborative Sensor Network Integration for SMEs\u2019 Zero-Defect Manufacturing",
+    "doi": "10.1007/978-3-031-14844-6_3",
+    "scopus_id": "2-s2.0-85139032024"
+  },
+  {
+    "title": "A dynamic programming-based heuristic algorithm for a flexible job shop scheduling problem of a matrix system in automotive industry",
+    "doi": "10.1109/CASE49997.2022.9926440",
+    "scopus_id": "2-s2.0-85138720583"
+  },
+  {
+    "title": "Impact of Resource Allocation Policies on Lead Time in a High-Mix Low-Volume Production System",
+    "doi": "10.11221/jima.73.136",
+    "scopus_id": "2-s2.0-85138218254"
+  },
+  {
+    "title": "Deep Reinforcement Learning-Based Job Shop Scheduling of Smart Manufacturing",
+    "doi": "10.32604/cmc.2022.030803",
+    "scopus_id": "2-s2.0-85135061069"
+  },
+  {
+    "title": "Integrated Multiresource Capacity Planning and Multitype Patient Scheduling",
+    "doi": "10.1287/ijoc.2020.1048",
+    "scopus_id": "2-s2.0-85134615218"
+  },
+  {
+    "title": "Modeling and optimization of chemical reaction based on XGBoost-PSO",
+    "doi": "10.1117/12.2641107",
+    "scopus_id": "2-s2.0-85132729333"
+  },
+  {
+    "title": "Scalability investigation of Double Deep Q Learning for factory layout planning",
+    "doi": "10.1016/j.procir.2022.04.027",
+    "scopus_id": "2-s2.0-85132306952"
+  },
+  {
+    "title": "Toward smart manufacturing scheduling from an ontological approach of job-shop uncertainty sources",
+    "doi": "10.1016/j.ifacol.2022.04.185",
+    "scopus_id": "2-s2.0-85132207821"
+  },
+  {
+    "title": "Examining smart manufacturing challenges in the context of micro, small and medium enterprises",
+    "doi": "10.1080/0951192X.2022.2078508",
+    "scopus_id": "2-s2.0-85131156376"
+  },
+  {
+    "title": "A green model for identical parallel machines scheduling problem considering tardy jobs and job splitting property",
+    "doi": "10.1016/j.susoc.2022.01.002",
+    "scopus_id": "2-s2.0-85129736908"
+  },
+  {
+    "title": "An Effective Hybrid Multiobjective Flexible Job Shop Scheduling Problem Based on Improved Genetic Algorithm",
+    "doi": "10.1155/2022/2120944",
+    "scopus_id": "2-s2.0-85128170545"
+  },
+  {
+    "title": "Solving Scheduling Problems in Case of Multi-objective Production Using Heuristic Optimization",
+    "doi": "10.1007/978-3-030-99310-8_2",
+    "scopus_id": "2-s2.0-85127708722"
+  },
+  {
+    "title": "Digital Twin-Driven Performance Optimization for Hazardous Waste Landfill Systems",
+    "doi": "10.1155/2022/7778952",
+    "scopus_id": "2-s2.0-85127698911"
+  },
+  {
+    "title": "Production Task Allocation Decision Based on Cloud Robot Cell-Line",
+    "doi": "10.1155/2022/5892943",
+    "scopus_id": "2-s2.0-85127509127"
+  },
+  {
+    "title": "Predictive Maintenance Decision Making Based on Reinforcement Learning in Multistage Production Systems",
+    "doi": "10.1109/ACCESS.2022.3151170",
+    "scopus_id": "2-s2.0-85124743585"
+  },
+  {
+    "title": "Intelligent Supply Chain Management Modules Enabling Advanced Manufacturing for the Electric-Mechanical Equipment Industry",
+    "doi": "10.1155/2022/8221706",
+    "scopus_id": "2-s2.0-85124293700"
+  },
+  {
+    "title": "Workload Control and Order Dispatching Rules Application in a Make-to-Order Manufacturing Process",
+    "doi": "10.3311/PPso.17271",
+    "scopus_id": "2-s2.0-85123409251"
+  },
+  {
+    "title": "Networking-enabled product service system (N-PSS) in collaborative manufacturing platform for mass personalization model",
+    "doi": "10.1016/j.cie.2021.107805",
+    "scopus_id": "2-s2.0-85119201476"
+  },
+  {
+    "title": "Development and analysis of priority decision rules using MCDM approach for a flexible job shop scheduling: A simulation study",
+    "doi": "10.1016/j.simpat.2021.102416",
+    "scopus_id": "2-s2.0-85116846507"
+  },
+  {
+    "title": "Demand Forecasting of a Company that Produces by Mass Customization with Machine Learning",
+    "doi": "10.1007/978-3-030-85577-2_23",
+    "scopus_id": "2-s2.0-85115270212"
+  },
+  {
+    "title": "Joint replacement and production control for a queueing system with different failures",
+    "doi": "10.1080/21681015.2021.1969456",
+    "scopus_id": "2-s2.0-85113811283"
+  },
+  {
+    "title": "Joint optimisation for dynamic flexible job-shop scheduling problem with transportation time and resource constraints",
+    "doi": "10.1080/00207543.2021.1968526",
+    "scopus_id": "2-s2.0-85113758534"
+  },
+  {
+    "title": "Bilevel interactive optimisation for rebatching scheduling problem with selectivity banks in high variety flow line production",
+    "doi": "10.1080/00207543.2021.1933644",
+    "scopus_id": "2-s2.0-85107484254"
+  },
+  {
+    "title": "Multiobjective optimization for complex flexible job-shop scheduling problems",
+    "doi": "10.1016/j.ejor.2021.03.069",
+    "scopus_id": "2-s2.0-85106953117"
+  },
+  {
+    "title": "Simultaneous part input sequencing and robot scheduling for mass customisation",
+    "doi": "10.1080/00207543.2021.1894369",
+    "scopus_id": "2-s2.0-85102931430"
+  },
+  {
+    "title": "Towards a mass customization in the fashion industry: An evolutionary decision aid model for apparel product platform design and optimization",
+    "doi": "10.1016/j.cie.2021.107742",
+    "scopus_id": "2-s2.0-85117416860"
+  },
+  {
+    "title": "Intelligent orientation of parts based on defect prediction in Multi Jet Fusion process",
+    "doi": "10.1007/s40964-021-00199-x",
+    "scopus_id": "2-s2.0-85108254584"
+  },
+  {
+    "title": "Multi-agent reinforcement learning for online scheduling in smart factories",
+    "doi": "10.1016/j.rcim.2021.102202",
+    "scopus_id": "2-s2.0-85107792029"
+  },
+  {
+    "title": "Holistic simulation-based optimisation methodology for facility layout design with consideration to production and logistics constraints",
+    "doi": "10.1177/09544054211017310",
+    "scopus_id": "2-s2.0-85105954789"
+  },
+  {
+    "title": "Responding to market turbulence by big data analytics and mass customization capability",
+    "doi": "10.1108/IMDS-03-2021-0160",
+    "scopus_id": "2-s2.0-85113744588"
+  },
+  {
+    "title": "Optimization of product line considering compatibility and reliability via discrete imperialist competitive algorithm",
+    "doi": "10.1051/ro/2021173",
+    "scopus_id": "2-s2.0-85122026101"
+  },
+  {
+    "title": "Weighted grey relational analysis to evaluate multilevel dispatching rules in wafer fabrication",
+    "doi": "10.1108/GS-08-2020-0106",
+    "scopus_id": "2-s2.0-85121836601"
+  },
+  {
+    "title": "Real-time integrated production-scheduling and maintenance-planning in a flexible job shop with machine deterioration and condition-based maintenance",
+    "doi": "10.1016/j.jmsy.2021.09.018",
+    "scopus_id": "2-s2.0-85116809271"
+  },
+  {
+    "title": "A fatigue-conscious dual resource constrained flexible job shop scheduling problem by enhanced NSGA-II: An application from casting workshop",
+    "doi": "10.1016/j.cie.2021.107557",
+    "scopus_id": "2-s2.0-85111311384"
+  },
+  {
+    "title": "A Slack approach to optimised modularisation of prefabricated structures using a multi-variable modularisation index",
+    "doi": "10.1016/j.istruc.2021.04.064",
+    "scopus_id": "2-s2.0-85106339920"
+  },
+  {
+    "title": "Predicting performance indicators with ANNs for AI-based online scheduling in dynamically interconnected assembly systems",
+    "doi": "10.1007/s11740-021-01057-z",
+    "scopus_id": "2-s2.0-85105500770"
+  },
+  {
+    "title": "Research on effective analysis and forecasting of demand in ERP systems - Case studies",
+    "doi": "10.1109/MMAR49549.2021.9528464",
+    "scopus_id": "2-s2.0-85116221162"
+  },
+  {
+    "title": "Data-driven dispatching rules mining and real-time decision-making methodology in intelligent manufacturing shop floor with uncertainty",
+    "doi": "10.3390/s21144836",
+    "scopus_id": "2-s2.0-85110421328"
+  },
+  {
+    "title": "Decomposition and Aggregation-Based Real-Time Analysis of Assembly Systems with Geometric Machines and Small Batch-Based Production Tasks",
+    "doi": "10.1109/TASE.2019.2963064",
+    "scopus_id": "2-s2.0-85112685557"
+  },
+  {
+    "title": "Ageing workforce effects in Dual-Resource Constrained job-shop scheduling",
+    "doi": "10.1016/j.ijpe.2021.108151",
+    "scopus_id": "2-s2.0-85105560156"
+  },
+  {
+    "title": "A discrete spotted hyena optimizer for solving distributed job shop scheduling problems",
+    "doi": "10.1016/j.asoc.2021.107349",
+    "scopus_id": "2-s2.0-85103695362"
+  },
+  {
+    "title": "Smart digital twin for ZDM-based job-shop scheduling",
+    "doi": "10.1109/MetroInd4.0IoT51437.2021.9488473",
+    "scopus_id": "2-s2.0-85112041197"
+  },
+  {
+    "title": "Monte Carlo Tree Search for online decision making in smart industrial production",
+    "doi": "10.1016/j.compind.2021.103433",
+    "scopus_id": "2-s2.0-85102784041"
+  },
+  {
+    "title": "A coordinated scheduling problem for the supply chain in a flexible job shop machine environment",
+    "doi": "10.1007/s12351-020-00615-0",
+    "scopus_id": "2-s2.0-85098770952"
+  },
+  {
+    "title": "Optimizing Energy-Conscious Dynamic Flexible Job Shop Scheduling: Multi-agent Simulation Approach",
+    "doi": "10.1109/CyMaEn50288.2021.9497301",
+    "scopus_id": "2-s2.0-85112404573"
+  },
+  {
+    "title": "Optimal decision in MC supply chain with overconfident retailer based on the newsvendor model",
+    "doi": "10.1051/ro/2021060",
+    "scopus_id": "2-s2.0-85107507468"
+  },
+  {
+    "title": "Framework of automated value stream mapping for lean production under the Industry 4.0 paradigm; \u5de5\u4e1a4.0\u65f6\u4ee3\u7cbe\u76ca\u751f\u4ea7\u7684\u81ea\u52a8\u5316\u4ef7\u503c\u6d41\u5206\u6790\u6846\u67b6",
+    "doi": "10.1631/jzus.A2000480",
+    "scopus_id": "2-s2.0-85106324942"
+  },
+  {
+    "title": "Evolutionary game based real-time scheduling for energy-efficient distributed and flexible job shop",
+    "doi": "10.1016/j.jclepro.2021.126093",
+    "scopus_id": "2-s2.0-85100428095"
+  },
+  {
+    "title": "Artificial-Intelligence-Driven Customized Manufacturing Factory: Key Technologies, Applications, and Challenges",
+    "doi": "10.1109/JPROC.2020.3034808",
+    "scopus_id": "2-s2.0-85097199226"
+  },
+  {
+    "title": "Multiple dispatching rules allocation in real time using data mining, genetic algorithms, and simulation",
+    "doi": "10.1007/s10951-020-00664-5",
+    "scopus_id": "2-s2.0-85089602933"
+  },
+  {
+    "title": "People-Centric Evolutionary System for Dynamic Production Scheduling",
+    "doi": "10.1109/TCYB.2019.2936001",
+    "scopus_id": "2-s2.0-85101077722"
+  },
+  {
+    "title": "Flexible job shop scheduling problem with sequence dependent setup time and job splitting: Hospital catering case study",
+    "doi": "10.3390/app11041504",
+    "scopus_id": "2-s2.0-85100866870"
+  },
+  {
+    "title": "A Framework for Designing the Customer-Order Decoupling Point to Facilitate Mass Customization",
+    "doi": "10.1115/1.4047684",
+    "scopus_id": "2-s2.0-85101505124"
+  },
+  {
+    "title": "Process optimization through closed-loop Kaizen with discrete event simulation: A case study in China",
+    "doi": "10.1177/0954405420937505",
+    "scopus_id": "2-s2.0-85089597311"
+  },
+  {
+    "title": "Diverse three-dimensional printing capacity planning for manufacturers",
+    "doi": "10.1016/j.rcim.2020.102052",
+    "scopus_id": "2-s2.0-85089438602"
+  },
+  {
+    "title": "Managerial Insights on Supply Chain and Logistics Planning with Carbon Emission Consideration",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85130233278"
+  },
+  {
+    "title": "Deep Reinforcement Learning based Actor-Critic Framework for Decision-Making Actions in Production Scheduling",
+    "doi": "10.1109/ICICIS52592.2021.9694207",
+    "scopus_id": "2-s2.0-85127032054"
+  },
+  {
+    "title": "Autonomous decision-making method of transportation process for flexible job shop scheduling problem based on reinforcement learning",
+    "doi": "10.1109/MLISE54096.2021.00049",
+    "scopus_id": "2-s2.0-85123276403"
+  },
+  {
+    "title": "A prescriptive maintenance system for intelligent production planning and control in a smart cyber-physical production line",
+    "doi": "10.1016/j.procir.2021.11.307",
+    "scopus_id": "2-s2.0-85120960220"
+  },
+  {
+    "title": "A novel dispatching rule for semi-heterarchical architectures in the industry 4.0 context",
+    "doi": "10.1016/j.ifacol.2021.08.010",
+    "scopus_id": "2-s2.0-85120691496"
+  },
+  {
+    "title": "Optimisation of the automated buffer positioning model under DDMRP logic",
+    "doi": "10.1016/j.ifacol.2021.08.067",
+    "scopus_id": "2-s2.0-85120676257"
+  },
+  {
+    "title": "Decision-making for location of manufacturing bases in an uncertain demand situation",
+    "doi": "10.3233/JIFS-189999",
+    "scopus_id": "2-s2.0-85118933493"
+  },
+  {
+    "title": "A Decision Support System to Operationalize Customer-Centric Sustainability",
+    "doi": "10.1016/j.procir.2021.10.019",
+    "scopus_id": "2-s2.0-85118632484"
+  },
+  {
+    "title": "FMS Scheduling Integration for Mass Customization",
+    "doi": "10.1007/978-3-030-85902-2_54",
+    "scopus_id": "2-s2.0-85115243386"
+  },
+  {
+    "title": "Digital Twin as a Tool to Select CT Scan Parameters",
+    "doi": "10.1007/978-3-030-75680-2_62",
+    "scopus_id": "2-s2.0-85111365382"
+  },
+  {
+    "title": "Challenges for Mass Customization in Industry 4.0 Environment: An Analysis Using Fuzzy TOPSIS Approach",
+    "doi": "10.1007/978-981-15-9678-0_90",
+    "scopus_id": "2-s2.0-85111260677"
+  },
+  {
+    "title": "An Attention Mechanism Oriented Hybrid CNN-RNN Deep Learning Architecture of Container Terminal Liner Handling Conditions Prediction",
+    "doi": "10.1155/2021/3846078",
+    "scopus_id": "2-s2.0-85111036052"
+  },
+  {
+    "title": "An FPTAS for just-in-time scheduling of a flow shop manufacturing process with different service quality levels",
+    "doi": "10.1051/ro/2020006",
+    "scopus_id": "2-s2.0-85102029855"
+  },
+  {
+    "title": "Reinforcement Learning with Composite Rewards for Production Scheduling in a Smart Factory",
+    "doi": "10.1109/ACCESS.2020.3046784",
+    "scopus_id": "2-s2.0-85098775499"
+  },
+  {
+    "title": "An Implementation of Flexible Job Shop Scheduling Problem in a Metal Processing Company",
+    "doi": "10.1007/978-3-030-62784-3_68",
+    "scopus_id": "2-s2.0-85096491434"
+  },
+  {
+    "title": "Modeling and implementation of a digital twin of material flows based on physics simulation",
+    "doi": "10.1016/j.jmsy.2020.04.015",
+    "scopus_id": "2-s2.0-85085323138"
+  },
+  {
+    "title": "Simulation optimization framework for online deployment and adjustment of reconfigurable machines in job shops",
+    "doi": "10.1109/IEEM45057.2020.9309782",
+    "scopus_id": "2-s2.0-85099757496"
+  },
+  {
+    "title": "Multi-factory job shop scheduling with due date objective",
+    "doi": "10.1109/IEEM45057.2020.9309905",
+    "scopus_id": "2-s2.0-85099754828"
+  },
+  {
+    "title": "A Middleware Platform for Intelligent Automation: An Industrial Prototype Implementation",
+    "doi": "10.1016/j.compind.2020.103329",
+    "scopus_id": "2-s2.0-85092922057"
+  },
+  {
+    "title": "Semi-Automatic Generation of a Fuzzy Inference System in a Reshoring Context",
+    "doi": "10.3233/ATDE200199",
+    "scopus_id": "2-s2.0-85098638657"
+  },
+  {
+    "title": "Optimizing makespan and stability risks in job shop scheduling",
+    "doi": "10.1016/j.cor.2020.104963",
+    "scopus_id": "2-s2.0-85085477534"
+  },
+  {
+    "title": "Integrating simulation and FITradeoff method for scheduling rules selection in job-shop production systems",
+    "doi": "10.1016/j.ijpe.2020.107669",
+    "scopus_id": "2-s2.0-85078997085"
+  },
+  {
+    "title": "Tactical production planning in a hybrid MTS/MTO system using Stackelberg game",
+    "doi": "10.1007/s12351-018-0385-2",
+    "scopus_id": "2-s2.0-85042131522"
+  },
+  {
+    "title": "Computer Vision-enabled HCPS Assembly Workstations Swarm for Enhancing Responsiveness in Mass Customization",
+    "doi": "10.1109/CASE48305.2020.9216907",
+    "scopus_id": "2-s2.0-85094175487"
+  },
+  {
+    "title": "Modified water wave optimization for energy-conscious dual-resource constrained flexible job shop scheduling",
+    "doi": "10.23940/ijpe.20.06.p10.916929",
+    "scopus_id": "2-s2.0-85090040164"
+  },
+  {
+    "title": "Optimization of delivery adherence based on capacity planning and bid pricing",
+    "doi": "10.1007/s11740-020-00959-8",
+    "scopus_id": "2-s2.0-85082934701"
+  },
+  {
+    "title": "Applying available-to-promise (ATP) concept in mixed-model assembly line sequencing problems in a Make-To-Order (MTO) environment: problem extension, model formulation and Lagrangian relaxation algorithm",
+    "doi": "10.1007/s12597-019-00436-6",
+    "scopus_id": "2-s2.0-85077553931"
+  },
+  {
+    "title": "The Spatio-Temporal Modeling and Integration of Manufacturing Big Data in Job Shop: An Ontology-Based Approach",
+    "doi": "10.1109/ICIEA49774.2020.9101999",
+    "scopus_id": "2-s2.0-85086079491"
+  },
+  {
+    "title": "Digital transformation to empower smart production for Industry 3.5 and an empirical study for textile dyeing",
+    "doi": "10.1016/j.cie.2020.106297",
+    "scopus_id": "2-s2.0-85078968674"
+  },
+  {
+    "title": "Toward the Fourth Industrial Revolution on Real-Time Customization",
+    "doi": "10.1007/s11518-019-5433-9",
+    "scopus_id": "2-s2.0-85076558957"
+  },
+  {
+    "title": "Streaming information integration unit for mass customization",
+    "doi": "10.1088/1757-899X/768/5/052120",
+    "scopus_id": "2-s2.0-85083015395"
+  },
+  {
+    "title": "A GRAPH-BASED DECISION SUPPORT SYSTEM FOR ANALYZING HYBRID MAKE-TO-STOCK/MAKE-TO-ORDER MANUFACTURING ENVIRONMENTS",
+    "doi": "10.14488/BJOPM.2020.009",
+    "scopus_id": "2-s2.0-85147225425"
+  },
+  {
+    "title": "Materials Requirement Planning with the Use of Activity Based Costing",
+    "doi": "10.2478/mspe-2020-0001",
+    "scopus_id": "2-s2.0-85082705674"
+  },
+  {
+    "title": "BIM-based decision support system for automated manufacturability check of wood frame assemblies",
+    "doi": "10.1016/j.autcon.2019.103065",
+    "scopus_id": "2-s2.0-85077092660"
+  },
+  {
+    "title": "Blockchain-based reputation management for custom manufacturing service in the peer-to-peer networking environment",
+    "doi": "10.1007/s12083-019-00730-6",
+    "scopus_id": "2-s2.0-85065744826"
+  },
+  {
+    "title": "Module-Based product configuration decisions considering both economical and carbon emission-related environmental factors",
+    "doi": "10.3390/su12031145",
+    "scopus_id": "2-s2.0-85081247690"
+  },
+  {
+    "title": "A smart algorithm for multi-criteria optimization of model sequencing problem in assembly lines",
+    "doi": "10.1016/j.rcim.2019.101844",
+    "scopus_id": "2-s2.0-85069913381"
+  },
+  {
+    "title": "Metaheuristics for solving a multi-objective flow shop scheduling problem with sequence-dependent setup times",
+    "doi": "10.1007/s10951-019-00610-0",
+    "scopus_id": "2-s2.0-85067828490"
+  },
+  {
+    "title": "Product platforms design, selection and customisation in high-variety manufacturing",
+    "doi": "10.1080/00207543.2019.1602745",
+    "scopus_id": "2-s2.0-85064489102"
+  },
+  {
+    "title": "Job shop scheduling in single machine: An overview",
+    "doi": "10.1007/978-981-15-0950-6_31",
+    "scopus_id": "2-s2.0-85120982849"
+  },
+  {
+    "title": "Production scheduling and equipment matching of flexible workshops based on multi-objective and multi-process hybrid optimization algorithm",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85105262172"
+  },
+  {
+    "title": "Order fulfilment progress estimation for collaborative manufacturing enabled by industrial internet of things",
+    "doi": "10.1115/MSEC2020-8387",
+    "scopus_id": "2-s2.0-85101466325"
+  },
+  {
+    "title": "Robust optimization of manufacturing systems flexibility",
+    "doi": "10.1016/j.procir.2021.01.053",
+    "scopus_id": "2-s2.0-85101085859"
+  },
+  {
+    "title": "Research on adaptive job shop scheduling problems based on dueling double DQN",
+    "doi": "10.1109/ACCESS.2020.3029868",
+    "scopus_id": "2-s2.0-85100138902"
+  },
+  {
+    "title": "POLCA Control in two-stage production systems",
+    "doi": "10.1016/j.promfg.2020.10.207",
+    "scopus_id": "2-s2.0-85099811297"
+  },
+  {
+    "title": "A hybrid intelligent algorithm for a fuzzy multi-objective job shop scheduling problem with reentrant workflows and parallel machines",
+    "doi": "10.3233/JIFS-201120",
+    "scopus_id": "2-s2.0-85096955505"
+  },
+  {
+    "title": "An Integrated Product Planning and Design Platform in the Context of Housebuilding Industry",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85096778739"
+  },
+  {
+    "title": "Prescriptive system for reconfigurable manufacturing systems considering variable demand and production rates",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85096352630"
+  },
+  {
+    "title": "Creation of digital production twins for the optimization of value creation in single and small batch production",
+    "doi": "10.1016/j.procir.2020.04.125",
+    "scopus_id": "2-s2.0-85092440006"
+  },
+  {
+    "title": "Performance assessment methodology for AI-supported decision-making in production management",
+    "doi": "10.1016/j.procir.2020.03.047",
+    "scopus_id": "2-s2.0-85092428020"
+  },
+  {
+    "title": "A branch and bound algorithm for single machine scheduling with two stages of failure process",
+    "doi": "10.1109/RAMS48030.2020.9153652",
+    "scopus_id": "2-s2.0-85090464133"
+  },
+  {
+    "title": "The Research of Flexible Scheduling of Workshop Based on Artificial Fish Swarm Algorithm and Knowledge Mining",
+    "doi": "10.1007/978-3-030-53956-6_10",
+    "scopus_id": "2-s2.0-85088745836"
+  },
+  {
+    "title": "Branch and bound algorithm for identical parallel machine scheduling problem to maximise system availability",
+    "doi": "10.1504/IJMR.2020.108188",
+    "scopus_id": "2-s2.0-85088571865"
+  },
+  {
+    "title": "Development and selection of hybrid dispatching rule for dynamic job shop scheduling using multi-criteria decision making analysis (MCDMA)",
+    "doi": "10.24874/IJQR14.02-10",
+    "scopus_id": "2-s2.0-85086086835"
+  },
+  {
+    "title": "A strategic approach for bottleneck identification in make-to-order environments: A drum-buffer-rope action research based case study",
+    "doi": "10.3926/jiem.2868",
+    "scopus_id": "2-s2.0-85085955567"
+  },
+  {
+    "title": "A new S&OP maturity assessment model for mass customization production systems: A case study of an automotive OEM",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85085922679"
+  },
+  {
+    "title": "Optimizing manufacturing scheduling in a job shop using discrete event simulation",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85084076218"
+  },
+  {
+    "title": "Mathematical modeling and a hybridized bacterial foraging optimization algorithm for the flexible job-shop scheduling problem with sequencing flexibility",
+    "doi": "10.1016/j.jmsy.2019.11.010",
+    "scopus_id": "2-s2.0-85076473178"
+  },
+  {
+    "title": "Nested-Simulation-Based Approach for Real-Time Dispatching in Job Shops",
+    "doi": "10.1109/WSC40007.2019.9004729",
+    "scopus_id": "2-s2.0-85081118022"
+  },
+  {
+    "title": "A Knee-Point Driven Multi-objective Evolutionary Algorithm for Flexible Job Shop Scheduling",
+    "doi": "10.1109/SSCI44817.2019.9002654",
+    "scopus_id": "2-s2.0-85080854960"
+  },
+  {
+    "title": "Order Acceptance and Scheduling Considering Lot-Spitting in seru Production System",
+    "doi": "10.1109/IEEM44572.2019.8978529",
+    "scopus_id": "2-s2.0-85079674002"
+  },
+  {
+    "title": "Synchronized scheduling of make to order plant and cross-docking warehouse",
+    "doi": "10.1016/j.cie.2019.106108",
+    "scopus_id": "2-s2.0-85073502913"
+  },
+  {
+    "title": "An application of unrelated parallel machine scheduling with sequence-dependent setups at Vestel Electronics",
+    "doi": "10.1016/j.cor.2019.06.007",
+    "scopus_id": "2-s2.0-85067895382"
+  },
+  {
+    "title": "An Energy-Aware Multiobjective Optimization Framework to Minimize Total Tardiness and Energy Cost on a Single-Machine Nonpreemptive Scheduling",
+    "doi": "10.1109/TEM.2018.2846627",
+    "scopus_id": "2-s2.0-85049449964"
+  },
+  {
+    "title": "Decentralized line equipment detection and production control by multi-agent technology",
+    "doi": "10.1109/IECON.2019.8926900",
+    "scopus_id": "2-s2.0-85083987786"
+  },
+  {
+    "title": "An agent-based process mining architecture for emergent behavior analysis",
+    "doi": "10.1109/EDOCW.2019.00022",
+    "scopus_id": "2-s2.0-85076053543"
+  },
+  {
+    "title": "Multi-objective optimization for energy-efficient flexible job shop scheduling problem with transportation constraints",
+    "doi": "10.1016/j.rcim.2019.04.006",
+    "scopus_id": "2-s2.0-85064260427"
+  },
+  {
+    "title": "Application of SMED Methodology and Scheduling in High-Mix Low Volume Production Model to Reduce Setup Time: A Case of S Company",
+    "doi": "10.1088/1757-899X/598/1/012058",
+    "scopus_id": "2-s2.0-85073224684"
+  },
+  {
+    "title": "Towards a data-driven predictive-reactive production scheduling approach based on inventory availability",
+    "doi": "10.1016/j.ifacol.2019.11.385",
+    "scopus_id": "2-s2.0-85078884096"
+  },
+  {
+    "title": "POLCA: Centralised vs. Decentralised job release",
+    "doi": "10.1016/j.ifacol.2019.11.399",
+    "scopus_id": "2-s2.0-85078873092"
+  },
+  {
+    "title": "An optimization approach for MPS in a MTO multiproduct assembly line system",
+    "doi": "10.1109/IESM45758.2019.8948090",
+    "scopus_id": "2-s2.0-85078773806"
+  },
+  {
+    "title": "Decentralized determination of design variables among cooperative designers for product platform design in a product family",
+    "doi": "10.1016/j.cie.2019.06.039",
+    "scopus_id": "2-s2.0-85067689600"
+  },
+  {
+    "title": "Industry 4.0: Key Questions in Manufacturing",
+    "doi": "10.1051/matecconf/201929002003",
+    "scopus_id": "2-s2.0-85098184153"
+  },
+  {
+    "title": "Development of the conceptual model and formulation of a mathematical model for supply chain in south african automotive industry",
+    "doi": "10.23919/PICMET.2019.8893907",
+    "scopus_id": "2-s2.0-85075636190"
+  },
+  {
+    "title": "Automated design and modeling for mass-customized housing. A web-based design space catalog for timber structures",
+    "doi": "10.1016/j.autcon.2019.03.002",
+    "scopus_id": "2-s2.0-85062713930"
+  },
+  {
+    "title": "Integrated Electricity and Natural Gas Demand Response for Manufacturers in the Smart Grid",
+    "doi": "10.1109/TSG.2018.2850841",
+    "scopus_id": "2-s2.0-85049133601"
+  },
+  {
+    "title": "Formulation and solution for the predictive maintenance integrated job shop scheduling problem",
+    "doi": "10.1109/ICPHM.2019.8819397",
+    "scopus_id": "2-s2.0-85072778377"
+  },
+  {
+    "title": "The causes of product configuration project failure",
+    "doi": "10.1016/j.compind.2019.03.002",
+    "scopus_id": "2-s2.0-85062893360"
+  },
+  {
+    "title": "A decision support system for a critical time constraint tunnel",
+    "doi": "10.1109/ASMC.2019.8791812",
+    "scopus_id": "2-s2.0-85070994739"
+  },
+  {
+    "title": "Anarchic manufacturing",
+    "doi": "10.1080/00207543.2018.1521534",
+    "scopus_id": "2-s2.0-85053542258"
+  },
+  {
+    "title": "Improving Energy Efficiency in Discrete Parts Manufacturing System Using an Ultra-Flexible Job Shop Scheduling Algorithm",
+    "doi": "10.1007/s40684-019-00055-y",
+    "scopus_id": "2-s2.0-85063864156"
+  },
+  {
+    "title": "Data mining\u2013based disturbances prediction for job shop scheduling",
+    "doi": "10.1177/1687814019838178",
+    "scopus_id": "2-s2.0-85063626493"
+  },
+  {
+    "title": "A min\u2013max solution to optimise planned lead time in a remanufacturing system",
+    "doi": "10.1111/itor.12475",
+    "scopus_id": "2-s2.0-85055893119"
+  },
+  {
+    "title": "Government intervention on a competing supply chain with two green manufacturers and a retailer",
+    "doi": "10.1016/j.cie.2018.12.030",
+    "scopus_id": "2-s2.0-85058700342"
+  },
+  {
+    "title": "Energy- and labor-aware flexible job shop scheduling under dynamic electricity pricing: A many-objective optimization investigation",
+    "doi": "10.1016/j.jclepro.2018.10.289",
+    "scopus_id": "2-s2.0-85056000918"
+  },
+  {
+    "title": "A Data-Driven Method for Decision Support Systems in Mass Production and Mass Customization",
+    "doi": "10.1109/IDAP.2018.8620794",
+    "scopus_id": "2-s2.0-85062573626"
+  },
+  {
+    "title": "Modeling and application of configuration complexity scale: concept for customized production",
+    "doi": "10.1007/s00170-018-2659-5",
+    "scopus_id": "2-s2.0-85053928031"
+  },
+  {
+    "title": "Developing a Choice Menu: An Investigation on the Definition and Offer of Customisation Units",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85128172328"
+  },
+  {
+    "title": "Real-time order acceptance and scheduling problems in a flow shop environment using hybrid Ga-PSO algorithm",
+    "doi": "10.1109/ACCESS.2019.2935375",
+    "scopus_id": "2-s2.0-85085497096"
+  },
+  {
+    "title": "A framework for a make-to-order scheduling problem with sequence-dependent set up times and product perishability: A case study in the food industry",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85083644852"
+  },
+  {
+    "title": "Real-Time manufacturing optimization with a simulation model and virtual reality",
+    "doi": "10.1016/j.promfg.2020.01.198",
+    "scopus_id": "2-s2.0-85083534181"
+  },
+  {
+    "title": "The impact of lean improvements on cost-time profile",
+    "doi": "10.1016/j.promfg.2020.01.041",
+    "scopus_id": "2-s2.0-85083533837"
+  },
+  {
+    "title": "Multi-objective flexible job shop scheduling problem considering machine switching off-on operation",
+    "doi": "10.1016/j.promfg.2020.01.353",
+    "scopus_id": "2-s2.0-85082736708"
+  },
+  {
+    "title": "Agent-based simulation for production planning and control in consideration of disruption events",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85079490063"
+  },
+  {
+    "title": "Self-Remanufacturing or Outsourcing? Hybrid Manufacturing System with Remanufacturing Options under Yield Uncertainty",
+    "doi": "10.1109/ACCESS.2019.2947702",
+    "scopus_id": "2-s2.0-85078359041"
+  },
+  {
+    "title": "Multi-criteria decision making approach for minimizing makespan in a large scale press-shop",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85077777136"
+  },
+  {
+    "title": "Designing the customer order decoupling point to facilitate mass customization",
+    "doi": "10.1115/DETC2019-97379",
+    "scopus_id": "2-s2.0-85076486338"
+  },
+  {
+    "title": "Complexity reduction in mass customization to facilitate better decision support",
+    "doi": "10.1115/DETC2019-97369",
+    "scopus_id": "2-s2.0-85076370507"
+  },
+  {
+    "title": "Multiagent using solving the job scheduling problem in the industry 4.0",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85073621114"
+  },
+  {
+    "title": "A Multi-objective Reinforcement Learning Algorithm for JSSP",
+    "doi": "10.1007/978-3-030-30487-4_44",
+    "scopus_id": "2-s2.0-85072864863"
+  },
+  {
+    "title": "A human centred hybrid MAS and meta-heuristics based system for simultaneously supporting scheduling and plant layout adjustment",
+    "doi": "10.5937/fmet1904699A",
+    "scopus_id": "2-s2.0-85070204534"
+  },
+  {
+    "title": "Metrics for identifying the most suitable strategy for distributed localised food manufacturing",
+    "doi": "10.1016/j.promfg.2019.04.073",
+    "scopus_id": "2-s2.0-85068562414"
+  },
+  {
+    "title": "Design, implementation and evaluation of reinforcement learning for an adaptive order dispatching in job shop manufacturing systems",
+    "doi": "10.1016/j.procir.2019.03.041",
+    "scopus_id": "2-s2.0-85068485505"
+  },
+  {
+    "title": "A new representation in genetic programming for evolving dispatching rules for dynamic flexible job shop scheduling",
+    "doi": "10.1007/978-3-030-16711-0_3",
+    "scopus_id": "2-s2.0-85064934732"
+  },
+  {
+    "title": "Data analytics-based decision support workflow for high-mix low-volume production systems",
+    "doi": "10.1016/j.cirp.2019.04.001",
+    "scopus_id": "2-s2.0-85064550516"
+  },
+  {
+    "title": "A decision support system for dynamic job-shop scheduling using real-time data with simulation",
+    "doi": "10.3390/math7030278",
+    "scopus_id": "2-s2.0-85063881542"
+  },
+  {
+    "title": "Practical approach of flexible job shop scheduling using costs and finishing times of operations",
+    "doi": "10.1007/978-3-319-97490-3_38",
+    "scopus_id": "2-s2.0-85051798808"
+  },
+  {
+    "title": "High-Dimensional Robust Multi-Objective Optimization for Order Scheduling: A Decision Variable Classification Approach",
+    "doi": "10.1109/TII.2018.2836189",
+    "scopus_id": "2-s2.0-85047019015"
+  },
+  {
+    "title": "Risk pricing and consumers' equilibrium strategies in A quality-based make-to-order/service system",
+    "doi": "10.1109/IEIS.2018.8597647",
+    "scopus_id": "2-s2.0-85061840403"
+  },
+  {
+    "title": "A machine learning approach applied to energy prediction in job shop environments",
+    "doi": "10.1109/IECON.2018.8592763",
+    "scopus_id": "2-s2.0-85061559506"
+  },
+  {
+    "title": "Solving the Job-Shop Scheduling Problem in the Industry 4.0 Era",
+    "doi": "10.3390/technologies6040107",
+    "scopus_id": "2-s2.0-85108074590"
+  },
+  {
+    "title": "Joint decision model of supplier selection and order allocation for the mass customization of logistics services",
+    "doi": "10.1016/j.tre.2018.10.011",
+    "scopus_id": "2-s2.0-85055837582"
+  },
+  {
+    "title": "Integrating simulation modelling and multi criteria decision making for customer focused scheduling in job shops",
+    "doi": "10.1016/j.simpat.2018.08.001",
+    "scopus_id": "2-s2.0-85051827939"
+  },
+  {
+    "title": "Decision trees for implementing rapid manufacturing for mass customisation",
+    "doi": "10.1016/j.cirpj.2017.12.003",
+    "scopus_id": "2-s2.0-85042930050"
+  },
+  {
+    "title": "A simulated annealing metaheuristic for the bi-objective flexible job shop scheduling problem",
+    "doi": "10.1109/RICE.2018.8627907",
+    "scopus_id": "2-s2.0-85061118419"
+  },
+  {
+    "title": "Digital manufacturing applicability of a laser sintered component for automotive industry: a case study",
+    "doi": "10.1108/RPJ-11-2017-0238",
+    "scopus_id": "2-s2.0-85054627489"
+  },
+  {
+    "title": "A clustering search metaheuristic for the bi-objective flexible job shop scheduling problem",
+    "doi": "10.1109/CLEI.2018.00027",
+    "scopus_id": "2-s2.0-85071118463"
+  },
+  {
+    "title": "Hybrid Particle Swarm Algorithm Applied to Flexible Job-Shop Problem",
+    "doi": "10.1109/CEC.2018.8477680",
+    "scopus_id": "2-s2.0-85056268755"
+  },
+  {
+    "title": "Production planning methodology in hybrid systems",
+    "doi": "10.1088/1757-899X/400/6/062027",
+    "scopus_id": "2-s2.0-85055803333"
+  },
+  {
+    "title": "Instance-based comparative assessment with application in manufacturing",
+    "doi": "10.1088/1757-899X/400/4/042001",
+    "scopus_id": "2-s2.0-85055771456"
+  },
+  {
+    "title": "A decision support tool for the order promising process with product homogeneity requirements in hybrid Make-To-Stock and Make-To-Order environments. Application to a ceramic tile company",
+    "doi": "10.1016/j.cie.2018.05.040",
+    "scopus_id": "2-s2.0-85048162212"
+  },
+  {
+    "title": "Improving materials flow through autonomous production control",
+    "doi": "10.1080/21681015.2018.1479895",
+    "scopus_id": "2-s2.0-85047953903"
+  },
+  {
+    "title": "Big data analysis and scheduling optimization system oriented assembly process for complex equipment",
+    "doi": "10.1109/ACCESS.2018.2852791",
+    "scopus_id": "2-s2.0-85049435430"
+  },
+  {
+    "title": "Comparative performance of genetic algorithm, simulated annealing and ant colony optimisation in solving the job-shop scheduling problem",
+    "doi": "10.1109/ICSENG.2018.8638185",
+    "scopus_id": "2-s2.0-85063132755"
+  },
+  {
+    "title": "A two-stage optimization method for energy-saving flexible job-shop scheduling based on energy dynamic characterization",
+    "doi": "10.1016/j.jclepro.2018.03.254",
+    "scopus_id": "2-s2.0-85047493844"
+  },
+  {
+    "title": "Product-service system (PSS) complexity metrics within mass customization and Industry 4.0 environment",
+    "doi": "10.1007/s00170-018-1903-3",
+    "scopus_id": "2-s2.0-85044444391"
+  },
+  {
+    "title": "A multi-purpose operational capacity and production planning tool",
+    "doi": "10.1109/ASMC.2018.8373203",
+    "scopus_id": "2-s2.0-85048875323"
+  },
+  {
+    "title": "Flexible job-shop scheduling for reduced manufacturing carbon footprint",
+    "doi": "10.1115/1.4037710",
+    "scopus_id": "2-s2.0-85053196676"
+  },
+  {
+    "title": "Dynamic decision making in mass customization",
+    "doi": "10.1016/j.cie.2018.04.025",
+    "scopus_id": "2-s2.0-85046464093"
+  },
+  {
+    "title": "Integrated product-process design: Material and manufacturing process selection for additive manufacturing using multi-criteria decision making",
+    "doi": "10.1016/j.rcim.2017.12.005",
+    "scopus_id": "2-s2.0-85039718893"
+  },
+  {
+    "title": "An integrated weighted fuzzy multi-objective model for supplier selection and order scheduling in a supply chain",
+    "doi": "10.1080/00207543.2017.1400706",
+    "scopus_id": "2-s2.0-85034250783"
+  },
+  {
+    "title": "Energy-efficient concurrent assessment of industrial robot operation based on association rules in manufacturing",
+    "doi": "10.1109/ICNSC.2018.8361334",
+    "scopus_id": "2-s2.0-85048245048"
+  },
+  {
+    "title": "Improved NSGA-II for the job-shop multi-objective scheduling problem",
+    "doi": "10.23940/ijpe.18.05.p7.891898",
+    "scopus_id": "2-s2.0-85048032437"
+  },
+  {
+    "title": "Macro economics, micro burrs",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85046686956"
+  },
+  {
+    "title": "An efficient artificial fish swarm algorithm with harmony search for scheduling in flexible job-shop problem",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85046347706"
+  },
+  {
+    "title": "Mass customization model in food industry using industry 4.0 standard with fuzzy-based multi-criteria decision making methodology",
+    "doi": "10.1177/1687814018766776",
+    "scopus_id": "2-s2.0-85044744139"
+  },
+  {
+    "title": "Mobile robot scheduling for cycle time optimization in flow-shop cells, a case study",
+    "doi": "10.1007/s11740-017-0784-x",
+    "scopus_id": "2-s2.0-85039699175"
+  },
+  {
+    "title": "Adaptive job shop control based on permanent order sequencing: Balancing between knowledge-based control and complete rescheduling",
+    "doi": "10.1007/s11740-017-0780-1",
+    "scopus_id": "2-s2.0-85036562791"
+  },
+  {
+    "title": "Distribution of manufacturing strategy decision-making in multi-plant networks",
+    "doi": "10.1080/00207543.2017.1401749",
+    "scopus_id": "2-s2.0-85034269733"
+  },
+  {
+    "title": "A case-based reasoning approach to cost estimation of new product development",
+    "doi": "10.1016/j.neucom.2017.05.092",
+    "scopus_id": "2-s2.0-85021283390"
+  },
+  {
+    "title": "Manufacturing flow time estimation using the model-tree induction approach in a dynamic job shop environment",
+    "doi": "10.1504/IJISE.2018.089747",
+    "scopus_id": "2-s2.0-85116245768"
+  },
+  {
+    "title": "An intelligent decision support system for SMED and its application in textile industry",
+    "doi": "nan",
+    "scopus_id": "2-s2.0-85066935940"
+  },
+  {
+    "title": "Hierarchical Production Planning and Real-Time Control for Parallel Batch Machines in a Flow Shop with Incompatible Jobs",
+    "doi": "10.1155/2018/7268578",
+    "scopus_id": "2-s2.0-85060180515"
+  },
+  {
+    "title": "On the design complexity of cyberphysical production systems",
+    "doi": "10.1155/2018/4632195",
+    "scopus_id": "2-s2.0-85056281853"
+  },
+  {
+    "title": "Practical production scheduling for hot metal pretreatment-steelmaking-continuous casting process involving preventive maintenance consideration",
+    "doi": "10.1109/ACCESS.2018.2873422",
+    "scopus_id": "2-s2.0-85054539672"
+  },
+  {
+    "title": "Development of a descriptive model for intralogistics as a foundation for an autonomous control method for intralogistics systems",
+    "doi": "10.1016/j.promfg.2018.04.021",
+    "scopus_id": "2-s2.0-85052881134"
+  },
+  {
+    "title": "A methodology on parts specification management with customer demands for Mass Customization",
+    "doi": "10.1016/j.procir.2018.03.016",
+    "scopus_id": "2-s2.0-85049567292"
+  },
+  {
+    "title": "Using fahp-vikor for operation selection in the flexible job-shop scheduling problem: A case study in textile industry",
+    "doi": "10.1007/978-3-319-93818-9_18",
+    "scopus_id": "2-s2.0-85049096537"
+  },
+  {
+    "title": "Petri Net Model of a Smart Factory in the Frame of Industry 4.0",
+    "doi": "10.1016/j.ifacol.2018.03.046",
+    "scopus_id": "2-s2.0-85046684151"
+  },
+  {
+    "title": "Modeling and simulation of agent\u2019s structure for a manufacturing system using SimEvents",
+    "doi": "10.1007/978-981-10-7386-1_33",
+    "scopus_id": "2-s2.0-85044415882"
+  },
+  {
+    "title": "Manufacturing flow time estimation using the model-tree induction approach in a dynamic job shop environment",
+    "doi": "10.1504/IJBIR.2018.089747",
+    "scopus_id": "2-s2.0-85041914058"
+  },
+  {
+    "title": "Flexible Job Shop Scheduling With Operators in Aeronautical Manufacturing: A Case Study",
+    "doi": "10.1109/ACCESS.2017.2761994",
+    "scopus_id": "2-s2.0-85041775774"
+  },
+  {
+    "title": "Integrated decision making for parts ordering and scheduling of jobs on two-stage assembly problem in three level supply chain",
+    "doi": "10.1016/j.jmsy.2017.12.002",
+    "scopus_id": "2-s2.0-85038871891"
+  },
+  {
+    "title": "Decision support to product configuration considering component replenishment uncertainty: A stochastic programming approach",
+    "doi": "10.1016/j.dss.2017.11.004",
+    "scopus_id": "2-s2.0-85036513848"
+  },
+  {
+    "title": "Modularity assessment in reconfigurable manufacturing system (RMS) design: an Archived Multi-Objective Simulated Annealing-based approach",
+    "doi": "10.1007/s00170-017-0803-2",
+    "scopus_id": "2-s2.0-85027724552"
+  }
+]
